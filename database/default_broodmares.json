@@ -1,0 +1,6953 @@
+[
+    {
+        "name": "ｱｰｽｻｰｸﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 16000,
+        "speed": 60,
+        "stamina": 52,
+        "power": 54,
+        "dirt": "○",
+        "ancestors": [
+            "Anbaa",
+            "Bering",
+            "Riverman",
+            "ﾊｲﾊｯﾄ"
+        ],
+        "indices": [
+            5,
+            11,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｱｰﾁｯﾁｱｰﾁ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 4400,
+        "speed": 42,
+        "stamina": 30,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "Old Trieste",
+            "ｻﾝｼｬｲﾝﾌｫｰｴｳﾞｧｰ",
+            "Northern Dancer",
+            "Barbizon"
+        ],
+        "indices": [
+            3,
+            11,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｱｲｵｰﾃｨｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 19000,
+        "speed": 56,
+        "stamina": 62,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Petionville",
+            "A Native Danzig",
+            "Bold Tropic",
+            "Jungle Road"
+        ],
+        "indices": [
+            6,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｱｲｿﾚｰﾀｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 18000,
+        "speed": 57,
+        "stamina": 60,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "Elusive City",
+            "Rainbow Quest",
+            "Niniski",
+            "Round Table"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｱｲﾙﾋﾞｰｴﾝｼﾞｪﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 12000,
+        "speed": 48,
+        "stamina": 56,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Sinndar",
+            "The Minstrel",
+            "Nashua",
+            "Sadair"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｱｴｰﾙｸﾗｲｼｽ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 19000,
+        "speed": 66,
+        "stamina": 52,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Well Decorated",
+            "Gleaming"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｱｵｲﾂｷｱｶﾘ",
+        "system": "ｴﾀﾝ",
+        "fee": 6400,
+        "speed": 40,
+        "stamina": 42,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "Diesis",
+            "Cure the Blues",
+            "Vaguely Noble",
+            "Habitat"
+        ],
+        "indices": [
+            6,
+            9,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ｱｶﾝﾊﾟﾆﾒﾝﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 13000,
+        "speed": 54,
+        "stamina": 52,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "Galileo",
+            "Rainbow Quest",
+            "Nijinsky",
+            "Round Table"
+        ],
+        "indices": [
+            5,
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｱｽﾞﾗｲﾄｱｽﾞﾚｲﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 11000,
+        "speed": 56,
+        "stamina": 46,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "Fappiano",
+            "Hail to Reason"
+        ],
+        "indices": [
+            5,
+            13,
+            6,
+            6
+        ]
+    },
+    {
+        "name": "ｱｾｯﾄﾊﾞﾝﾄﾞﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8000,
+        "speed": 42,
+        "stamina": 48,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "Awesome Again",
+            "Unbridled",
+            "Private Account",
+            "Key to the Mint"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            9
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾐﾆｽﾄﾚｰﾀ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 56,
+        "stamina": 63,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Awesome of Course",
+            "Gone West",
+            "Vaguely Noble",
+            "Princequillo"
+        ],
+        "indices": [
+            5,
+            5,
+            6,
+            11
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾗｽﾃｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 13000,
+        "speed": 48,
+        "stamina": 58,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Unsual Heat",
+            "Crested Wave",
+            "Imposing",
+            "Sobig"
+        ],
+        "indices": [
+            5,
+            2,
+            15,
+            11
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾚｾﾝｽｷｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 3000,
+        "speed": 32,
+        "stamina": 34,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "Mamool",
+            "Ashkalani",
+            "ﾛｲﾔﾙｱｶﾃﾞﾐｰII",
+            "Pharly"
+        ],
+        "indices": [
+            5,
+            6,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｱﾓｰﾚｱﾓｰﾚ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 18000,
+        "speed": 60,
+        "stamina": 56,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Madaglia d'Oro",
+            "Saratoga Six",
+            "L'Enjoleur",
+            "Chieftain"
+        ],
+        "indices": [
+            5,
+            9,
+            6,
+            8
+        ]
+    },
+    {
+        "name": "ｱﾘﾍﾞﾃﾞﾙﾁ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 12000,
+        "speed": 50,
+        "stamina": 55,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ｱﾙｶﾘﾝﾊﾞﾃﾞｨ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8800,
+        "speed": 53,
+        "stamina": 41,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Mr. Greeley",
+            "Slew o'Gold",
+            "Northern Dancer",
+            "Rough'n Tumble"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｱﾙｸｽｶﾞﾀ",
+        "system": "ﾈｲﾃｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 34000,
+        "speed": 70,
+        "stamina": 64,
+        "power": 64,
+        "dirt": "○",
+        "ancestors": [
+            "American Post",
+            "ﾐﾗｰｽﾞﾒｲﾄ",
+            "Lyphard",
+            "The Marshal"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｱﾙｸﾒﾈ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 17000,
+        "speed": 56,
+        "stamina": 59,
+        "power": 54,
+        "dirt": "○",
+        "ancestors": [
+            "Salt Lake",
+            "Capote",
+            "Alydar",
+            "Nijinsky"
+        ],
+        "indices": [
+            5,
+            14,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ｱﾙﾑﾅｲ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 22000,
+        "speed": 52,
+        "stamina": 70,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Proud Citizen",
+            "Langfuhr",
+            "Encino",
+            "Hard Work"
+        ],
+        "indices": [
+            6,
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｱﾝﾀﾞﾌﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 21000,
+        "speed": 61,
+        "stamina": 60,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "Champs Elysees",
+            "ｻﾞｰﾙ",
+            "Double Bed",
+            "Gairloch"
+        ],
+        "indices": [
+            5,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｱﾝﾄﾞﾘﾋﾟｰﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 17000,
+        "speed": 54,
+        "stamina": 61,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Seeking the Gold",
+            "Storm Cat",
+            "Quiet American",
+            "Spectacular Bit"
+        ],
+        "indices": [
+            6,
+            8,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ｱﾝﾄﾛﾎﾟｾﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20000,
+        "speed": 64,
+        "stamina": 56,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Not For Sale",
+            "Ski Champ",
+            "Ghadeer",
+            "Janus"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｲｴｽﾕｱﾊｲﾈｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 12000,
+        "speed": 58,
+        "stamina": 46,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "Storm Cat",
+            "Silver Hawk",
+            "Icecapade",
+            "Tom Rolfe"
+        ],
+        "indices": [
+            5,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｲｻﾞﾖｲﾉｼﾗﾍﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 16000,
+        "speed": 52,
+        "stamina": 60,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nureyev",
+            "Hostage",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｲﾀﾘｱﾝﾊﾟｾﾘ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5600,
+        "speed": 32,
+        "stamina": 46,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ﾋﾟﾙｻﾄﾞｽｷｰ",
+            "ﾄｳｼｮｳﾍﾟｶﾞｻｽ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ｲﾝﾌｧﾁｭｴｲｼｮﾝ"
+        ],
+        "indices": [
+            5,
+            7,
+            15,
+            5
+        ]
+    },
+    {
+        "name": "ｲﾁｺﾞﾀﾙﾄ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 19000,
+        "speed": 58,
+        "stamina": 60,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｲﾁﾊﾞﾝﾉｷﾎﾞｳ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 34000,
+        "speed": 64,
+        "stamina": 70,
+        "power": 62,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nureyev",
+            "Buckpasser",
+            "Traffic Judge"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            8
+        ]
+    },
+    {
+        "name": "ｲﾂｶｱﾉﾄｷ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 22000,
+        "speed": 68,
+        "stamina": 54,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "Rockport Harbor",
+            "Mr. Greeley",
+            "Polish Numbers",
+            "Sir Releigh"
+        ],
+        "indices": [
+            6,
+            8,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｲﾄﾞｩﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 3600,
+        "speed": 30,
+        "stamina": 38,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Nureyev",
+            "Private Account",
+            "Gallant Romeo"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            9
+        ]
+    },
+    {
+        "name": "ｲﾗﾝｲﾗﾝ",
+        "system": "ﾌｧｲﾝﾄｯﾌﾟ",
+        "fee": 13000,
+        "speed": 50,
+        "stamina": 56,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "ﾅﾘﾀﾄｯﾌﾟﾛｰﾄﾞ",
+            "Baldski",
+            "Argument",
+            "Round Table"
+        ],
+        "indices": [
+            11,
+            6,
+            5,
+            9
+        ]
+    },
+    {
+        "name": "ｲﾝﾀｰﾌﾟﾘﾀｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 4800,
+        "speed": 32,
+        "stamina": 42,
+        "power": 33,
+        "dirt": "○",
+        "ancestors": [
+            "ﾒｼﾞﾛﾗｲｱﾝ",
+            "Riverman",
+            "Time Tested",
+            "ｱﾜﾊﾞﾌﾞｰ"
+        ],
+        "indices": [
+            5,
+            13,
+            3,
+            12
+        ]
+    },
+    {
+        "name": "ｳｨｰﾉ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 22000,
+        "speed": 70,
+        "stamina": 52,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Meadowlake",
+            "In Reality",
+            "Crozier"
+        ],
+        "indices": [
+            6,
+            5,
+            13,
+            14
+        ]
+    },
+    {
+        "name": "ｳｨｯﾁﾌﾞﾙｰﾑ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20000,
+        "speed": 60,
+        "stamina": 60,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ﾛｯｸｵﾌﾞｼﾞﾌﾞﾗﾙﾀﾙ",
+            "Rainbow Quest",
+            "Green Desert",
+            "Mr. Prospector"
+        ],
+        "indices": [
+            5,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｳｨﾝﾀｰｸﾞﾘｰﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 19000,
+        "speed": 57,
+        "stamina": 62,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Dubawi",
+            "Suave Dancer",
+            "Distant Relative",
+            "High Top"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｳｲﾝﾄﾞﾌｧｸﾀｰ",
+        "system": "ﾊﾋﾞﾀｯﾄ",
+        "fee": 9600,
+        "speed": 56,
+        "stamina": 42,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "ﾆﾎﾝﾋﾟﾛｳｲﾅｰ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Cipol",
+            "Court Harwell"
+        ],
+        "indices": [
+            4,
+            11,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "ｳｰﾏﾝﾎﾞｰｶﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 11000,
+        "speed": 50,
+        "stamina": 52,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Kingmambo",
+            "A.P. Indy",
+            "King's Bishop",
+            "The Axe"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｳｫｰｷﾝｸﾞｵﾝｴｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 68,
+        "stamina": 51,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "Monsun",
+            "Dashing Blade",
+            "Esclavo",
+            "Waidmannsheil"
+        ],
+        "indices": [
+            10,
+            11,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｳｫｰｸｻﾞﾄｰｸ",
+        "system": "ﾌｫﾙﾃｨﾉ",
+        "fee": 26000,
+        "speed": 60,
+        "stamina": 66,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Not For Sale",
+            "Confidential Talk",
+            "Mariache",
+            "Gamin"
+        ],
+        "indices": [
+            3,
+            11,
+            9,
+            2
+        ]
+    },
+    {
+        "name": "ｳｫｰﾀｰﾌｫｰﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20000,
+        "speed": 54,
+        "stamina": 66,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Galileo",
+            "Pennekamp",
+            "ﾗｽﾄﾀｲｸｰﾝ",
+            "Up Spirits"
+        ],
+        "indices": [
+            5,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｳｽﾍﾞﾆｱｵｲ",
+        "system": "ｸﾗﾘｵﾝ",
+        "fee": 17000,
+        "speed": 56,
+        "stamina": 58,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "ﾄﾞｸﾀｰﾃﾞｳﾞｨｱｽ",
+            "Luthier",
+            "Sir Ribot",
+            "Royal Coinage"
+        ],
+        "indices": [
+            15,
+            13,
+            15,
+            13
+        ]
+    },
+    {
+        "name": "ｳﾑｱﾙﾑﾝｸﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 8400,
+        "speed": 42,
+        "stamina": 50,
+        "power": 42,
+        "dirt": "◎",
+        "ancestors": [
+            "ｸﾞﾗｽﾜﾝﾀﾞｰ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ﾊﾝﾀｰｺﾑ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ｳﾝﾒｲﾉｱｶｲｲﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 45000,
+        "speed": 72,
+        "stamina": 70,
+        "power": 67,
+        "dirt": "○",
+        "ancestors": [
+            "Storm Cat",
+            "Mr. Prospector",
+            "Nureyev",
+            "Prove Out"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｴｲｺｳﾉｿﾗﾍ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 36000,
+        "speed": 70,
+        "stamina": 66,
+        "power": 65,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｴｲｽﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 36000,
+        "speed": 60,
+        "stamina": 76,
+        "power": 62,
+        "dirt": "○",
+        "ancestors": [
+            "Sadler's Wells",
+            "Irish River",
+            "Raise a Native",
+            "ﾎｰﾂﾞﾄﾞﾗﾂﾄﾞ"
+        ],
+        "indices": [
+            5,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ｴｲﾌﾟﾘﾙﾌｰﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 6400,
+        "speed": 34,
+        "stamina": 48,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "ﾊﾞﾌﾞﾙｶﾞﾑﾌｪﾛｰ",
+            "Law Society",
+            "Luciano",
+            "Ticino"
+        ],
+        "indices": [
+            4,
+            5,
+            13,
+            11
+        ]
+    },
+    {
+        "name": "ｴｲﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 12000,
+        "speed": 56,
+        "stamina": 49,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "Grape Tree Road",
+            "Jeune Homme",
+            "Top Ville",
+            "Sir Gaylord"
+        ],
+        "indices": [
+            5,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ｴｸﾘｭ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 14000,
+        "speed": 42,
+        "stamina": 66,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "Acatenango",
+            "The Minstrel",
+            "ﾀｯﾌﾟｵﾝｳｯﾄﾞ",
+            "Prince Tenderfoot"
+        ],
+        "indices": [
+            11,
+            10,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "ｴｯｾﾝｽｸﾞﾚｰﾄ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 24000,
+        "speed": 62,
+        "stamina": 62,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Essence of Dubai",
+            "Great Above",
+            "His Majesty",
+            "Ambernash"
+        ],
+        "indices": [
+            3,
+            13,
+            12,
+            13
+        ]
+    },
+    {
+        "name": "ｴﾄﾜﾙｾﾘｰﾀ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 30000,
+        "speed": 70,
+        "stamina": 60,
+        "power": 63,
+        "dirt": "○",
+        "ancestors": [
+            "Monsun",
+            "Dashing Blade",
+            "Fioravanti",
+            "Faraway Son"
+        ],
+        "indices": [
+            10,
+            11,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｴﾍﾞﾚｽﾄﾛｰﾄﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 3000,
+        "speed": 34,
+        "stamina": 30,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ﾎﾟﾂｾ",
+            "High Top",
+            "ｾﾝﾄｸﾚｽﾋﾟﾝ"
+        ],
+        "indices": [
+            5,
+            13,
+            11,
+            2
+        ]
+    },
+    {
+        "name": "ｴﾘｱﾌｨﾌﾃｨｰﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 16000,
+        "speed": 58,
+        "stamina": 54,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Distorted Humor",
+            "ｼﾞｪｲﾄﾞﾊﾝﾀｰ",
+            "Ahonoora",
+            "ﾄﾗｲﾏｲﾍﾞｽﾄ"
+        ],
+        "indices": [
+            6,
+            5,
+            6,
+            15
+        ]
+    },
+    {
+        "name": "ｴﾙﾃｨｰｲｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 4800,
+        "speed": 36,
+        "stamina": 38,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "Distorted Humor",
+            "Storm Cat",
+            "Caro",
+            "Key to the Mint"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｴﾙﾄｩﾙﾏﾆｴ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 32000,
+        "speed": 74,
+        "stamina": 60,
+        "power": 65,
+        "dirt": "○",
+        "ancestors": [
+            "Highest Honor",
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "Kris",
+            "Buckpasser"
+        ],
+        "indices": [
+            3,
+            3,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ｴﾛｰﾗ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 16000,
+        "speed": 60,
+        "stamina": 53,
+        "power": 54,
+        "dirt": "○",
+        "ancestors": [
+            "ﾄﾆｰﾋﾞﾝ",
+            "ｼﾞｬｯｼﾞｱﾝｼﾞｪﾙｰﾁ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            3,
+            11,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｴﾝｼﾞｮｲﾏｲﾗｲﾌ",
+        "system": "ﾌｫﾙﾃｨﾉ",
+        "fee": 17000,
+        "speed": 62,
+        "stamina": 52,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Cozzene",
+            "Crafty Prospector",
+            "Far North",
+            "Drop Volley"
+        ],
+        "indices": [
+            3,
+            13,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｴﾝﾄﾞﾋﾞｵﾗ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 11000,
+        "speed": 46,
+        "stamina": 56,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Dixieland Band",
+            "Secretariat",
+            "Hoist the Flag",
+            "Swoon's Son"
+        ],
+        "indices": [
+            5,
+            11,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｴﾝﾄﾞﾚｽﾍﾞｯﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8800,
+        "speed": 48,
+        "stamina": 46,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "ｺﾛﾅﾄﾞｽﾞｸｴｽﾄ",
+            "Lord at War",
+            "Verbatim",
+            "Fleet Nasrullah"
+        ],
+        "indices": [
+            6,
+            9,
+            7,
+            13
+        ]
+    },
+    {
+        "name": "ｵｰﾌﾟﾝｿｰｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 16000,
+        "speed": 56,
+        "stamina": 56,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Sunriver",
+            "Meadowlake",
+            "Our Micheal",
+            "Twist the Axe"
+        ],
+        "indices": [
+            4,
+            5,
+            13,
+            1
+        ]
+    },
+    {
+        "name": "ｵｰﾙｴﾀｰﾅﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4000,
+        "speed": 30,
+        "stamina": 40,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀｲｷｼｬﾄﾙ",
+            "ﾃﾞｲﾝﾋﾙ",
+            "ﾓｰﾆﾝｸﾞﾌﾛｰﾘｯｸ",
+            "ﾌｧﾊﾞｰｼﾞ"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｵｰﾙﾄﾞﾒﾃﾞｨｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 16000,
+        "speed": 54,
+        "stamina": 58,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "Azamour",
+            "Mr. Prospector",
+            "Spectaclular Bid",
+            "Forli"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｵｸﾗﾎﾏﾐｷｻｰ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 12000,
+        "speed": 44,
+        "stamina": 60,
+        "power": 46,
+        "dirt": "◎",
+        "ancestors": [
+            "Cherokee Run",
+            "Unbridled",
+            "Bold Forbes",
+            "Sword Dancer"
+        ],
+        "indices": [
+            3,
+            4,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｵｸﾞﾘﾅﾘﾝ",
+        "system": "ﾈｲﾃｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 3600,
+        "speed": 33,
+        "stamina": 35,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ｵｸﾞﾘｷｬｯﾌﾟ",
+            "ﾒﾝﾃﾞｽ",
+            "ﾆｿﾞﾝ",
+            "ﾀﾞﾝﾃﾞｨﾙｰﾄ"
+        ],
+        "indices": [
+            6,
+            14,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｵｯｼｮｲ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 17000,
+        "speed": 54,
+        "stamina": 60,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾀﾞｰｶﾞﾙﾁ",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ｵﾄﾞﾝﾄｸﾞﾛｯｻﾑ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 14000,
+        "speed": 60,
+        "stamina": 49,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "Caerleon",
+            "Desert Wine",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            5,
+            13,
+            5,
+            9
+        ]
+    },
+    {
+        "name": "ｵﾋﾞｼﾀｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20000,
+        "speed": 66,
+        "stamina": 54,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Lizard Island",
+            "Poliglote",
+            "New Dandy",
+            "Francis U."
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ｵﾙｾｰﾗｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 36000,
+        "speed": 64,
+        "stamina": 72,
+        "power": 63,
+        "dirt": "○",
+        "ancestors": [
+            "Orpen",
+            "ｻｻﾞﾝﾍｲﾛｰ",
+            "Logical",
+            "Tatan"
+        ],
+        "indices": [
+            5,
+            4,
+            4,
+            8
+        ]
+    },
+    {
+        "name": "ｵﾝｻﾞﾎﾞｰﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 15000,
+        "speed": 56,
+        "stamina": 54,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "Seeking the Gold",
+            "Chief's Crown",
+            "Riva Ridge"
+        ],
+        "indices": [
+            5,
+            7,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｵﾝﾗｲﾝﾊﾟｰﾃｨ",
+        "system": "ﾃﾃﾞｨ",
+        "fee": 5000,
+        "speed": 32,
+        "stamina": 43,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "ｷｬﾌﾟﾃﾝｽﾃｨｰｳﾞ",
+            "ｸﾞﾗｽﾜﾝﾀﾞｰ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ﾎﾞｰﾙﾄﾞﾗﾂﾄﾞ"
+        ],
+        "indices": [
+            9,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｶｸﾃﾙﾚﾃﾞｨ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 9600,
+        "speed": 48,
+        "stamina": 50,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Nureyev",
+            "Sharpen Up",
+            "Terrible Tiger"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ｶｯﾄｺｰﾅｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 14000,
+        "speed": 54,
+        "stamina": 55,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾄﾘｰﾄｾﾝｽ",
+            "Mt. Livermore",
+            "Whitesburg",
+            "In a Trance"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            12
+        ]
+    },
+    {
+        "name": "ｶﾄｩｰﾗｶﾂｱｲ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 14000,
+        "speed": 58,
+        "stamina": 51,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "Monsun",
+            "Grand Lodge",
+            "Kings Lake",
+            "High Game"
+        ],
+        "indices": [
+            10,
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｶﾅｯﾍﾟ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6400,
+        "speed": 48,
+        "stamina": 34,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "Dare and Go",
+            "ｴﾝﾍﾟﾘｰ",
+            "Gray Phantom",
+            "Liberal Art"
+        ],
+        "indices": [
+            6,
+            3,
+            11,
+            15
+        ]
+    },
+    {
+        "name": "ｶﾙｶｯｿﾝﾇ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8000,
+        "speed": 46,
+        "stamina": 44,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "ﾛｯｸｵﾌﾞｼﾞﾌﾞﾗﾙﾀﾙ",
+            "Alleged",
+            "Val de I'Orne",
+            "Sir Gaylord"
+        ],
+        "indices": [
+            5,
+            5,
+            13,
+            10
+        ]
+    },
+    {
+        "name": "ｶﾙｾﾄﾞｸﾞﾘｰﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 45000,
+        "speed": 70,
+        "stamina": 72,
+        "power": 67,
+        "dirt": "◎",
+        "ancestors": [
+            "ｴﾙｺﾝﾄﾞﾙﾊﾟｻｰ",
+            "Riverman",
+            "Ribot",
+            "Prince Taj"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｶﾙﾁｮｺｯﾄ",
+        "system": "ﾌｧｲﾝﾄｯﾌﾟ",
+        "fee": 11000,
+        "speed": 42,
+        "stamina": 60,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "ｻｯｶｰﾎﾞｰｲ",
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ｼﾞｮﾝﾃｨｵﾝﾌﾞﾙ",
+            "ｳﾞｪﾝﾁｱ"
+        ],
+        "indices": [
+            11,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ｶﾞﾚｰｼﾞｾｰﾙ",
+        "system": "ﾃﾃﾞｨ",
+        "fee": 5400,
+        "speed": 34,
+        "stamina": 43,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "ｴｲｼﾝﾜｼﾝﾄﾝ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Conquistador Cielo",
+            "Nashua"
+        ],
+        "indices": [
+            9,
+            2,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ｷｰﾊﾟﾝﾁｬｰ",
+        "system": "ｲﾝﾃﾝﾄ",
+        "fee": 5600,
+        "speed": 36,
+        "stamina": 42,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃｨｽﾞﾅｳ",
+            "Salt Lake",
+            "ｼﾞｬｯｼﾞｬｰ",
+            "Hail to Reason"
+        ],
+        "indices": [
+            14,
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "name": "ｷｾｷﾉｷｽﾞﾅ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 8000,
+        "speed": 54,
+        "stamina": 36,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "Mr. Prospector",
+            "Roi Degobert",
+            "Spy Song"
+        ],
+        "indices": [
+            4,
+            13,
+            6,
+            13
+        ]
+    },
+    {
+        "name": "ｷﾆﾅﾙｱﾉｺ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4800,
+        "speed": 34,
+        "stamina": 40,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ﾏﾝﾊｯﾀﾝｶﾌｪ",
+            "Storm Cat",
+            "Sauce Boat",
+            "Barbizon"
+        ],
+        "indices": [
+            4,
+            13,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ｷｬｯﾁｰｽﾏｲﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 6400,
+        "speed": 36,
+        "stamina": 46,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "ｵﾍﾟﾗﾊｳｽ",
+            "Rainbow Quest",
+            "Polish Precedent",
+            "Shirley Heights"
+        ],
+        "indices": [
+            5,
+            2,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｷｬﾘｱﾅｰｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 19000,
+        "speed": 63,
+        "stamina": 55,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀｲｷｼｬﾄﾙ",
+            "ﾛｲﾔﾙｽｷｰ",
+            "ﾃｽｺﾎﾞｰｲ",
+            "ﾌﾗﾝｸﾘｰ"
+        ],
+        "indices": [
+            4,
+            5,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ｷｭｰﾚｰﾈｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 15000,
+        "speed": 57,
+        "stamina": 53,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crimson Satan",
+            "Beau Max"
+        ],
+        "indices": [
+            4,
+            3,
+            5,
+            12
+        ]
+    },
+    {
+        "name": "ｷﾗﾒｷﾊｰﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 14000,
+        "speed": 52,
+        "stamina": 56,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Mr. Prospector",
+            "Deputy Minister",
+            "Buckpasser"
+        ],
+        "indices": [
+            4,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｸｲｰﾝｽﾞｽﾐﾚ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 14000,
+        "speed": 56,
+        "stamina": 52,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nijinsky",
+            "Key to the Mint",
+            "Raise a Native"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ｸﾄｩﾌﾞﾐﾅｰﾙ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 20000,
+        "speed": 70,
+        "stamina": 50,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "Rahy",
+            "ｼﾝｸﾞｽﾋﾟｰﾙ",
+            "Efisio",
+            "Bay Express"
+        ],
+        "indices": [
+            3,
+            4,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｸﾗｼｶﾙﾒｿﾞｯﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5800,
+        "speed": 42,
+        "stamina": 38,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "Cape Cross",
+            "Zeditave",
+            "Assert",
+            "First Langing"
+        ],
+        "indices": [
+            5,
+            15,
+            2,
+            5
+        ]
+    },
+    {
+        "name": "ｸﾗｯｼｭｼﾝﾊﾞﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 18000,
+        "speed": 62,
+        "stamina": 54,
+        "power": 56,
+        "dirt": "○",
+        "ancestors": [
+            "Storm Cat",
+            "Affirmed",
+            "Intentionally",
+            "Your Host"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            14
+        ]
+    },
+    {
+        "name": "ｸﾗﾊﾞｯﾄ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 8400,
+        "speed": 48,
+        "stamina": 44,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Capote",
+            "Fabulous Dancer",
+            "Saint Cyrien",
+            "ﾎﾞｰﾙﾄﾞﾗｯﾄﾞ"
+        ],
+        "indices": [
+            3,
+            3,
+            5,
+            15
+        ]
+    },
+    {
+        "name": "ｸﾗﾑｼｬｲﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 64,
+        "stamina": 55,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "ｳｲﾆﾝｸﾞﾁｹｯﾄ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "ﾀﾘﾔｰﾄｽ"
+        ],
+        "indices": [
+            5,
+            7,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ｸﾞﾘｰﾝｱﾅ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6400,
+        "speed": 44,
+        "stamina": 38,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "Smart Strike",
+            "Theatrical",
+            "Hagley",
+            "Boldnesian"
+        ],
+        "indices": [
+            6,
+            4,
+            5,
+            14
+        ]
+    },
+    {
+        "name": "ｸﾞﾙﾐｳﾑ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 14000,
+        "speed": 58,
+        "stamina": 50,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Caerleon",
+            "Lord Gayle",
+            "Luciano"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｸﾛﾉﾓﾝｼｮｳ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 14000,
+        "speed": 50,
+        "stamina": 58,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "ｳｫｰｴﾝﾌﾞﾚﾑ",
+            "ﾍｸﾀｰﾌﾟﾛﾃｸﾀｰ",
+            "Vaguely Noble",
+            "Sir Ivor"
+        ],
+        "indices": [
+            6,
+            7,
+            6,
+            11
+        ]
+    },
+    {
+        "name": "ｺｳﾃｲﾀﾞﾘｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 68,
+        "stamina": 50,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            5,
+            7,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｺﾞｰｽﾄﾎﾞｰﾙﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 24000,
+        "speed": 64,
+        "stamina": 60,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "Ghostzapper",
+            "Arch",
+            "Seeking the Gold",
+            "Believe It"
+        ],
+        "indices": [
+            5,
+            14,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ｺｰﾌｧｲｸｲｰﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30000,
+        "speed": 64,
+        "stamina": 66,
+        "power": 61,
+        "dirt": "○",
+        "ancestors": [
+            "Redoute's Choice",
+            "Nureyev",
+            "Manila",
+            "Riverman"
+        ],
+        "indices": [
+            5,
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｺﾞｰﾙﾃﾞﾝｱｯﾌﾟﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 17000,
+        "speed": 64,
+        "stamina": 50,
+        "power": 56,
+        "dirt": "○",
+        "ancestors": [
+            "Pivotal",
+            "Common Grounds",
+            "Shareef Dancer",
+            "ﾀﾞｽﾄｺﾏﾝﾀﾞｰ"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｺｰﾙﾃﾝﾀｲﾑｽﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 13000,
+        "speed": 58,
+        "stamina": 48,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "Gone West",
+            "Slewpy",
+            "Verbatim",
+            "One for All"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｺｺﾅｯﾂﾐﾙｸ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 12000,
+        "speed": 58,
+        "stamina": 47,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "Fastnet Rock",
+            "ｽﾄﾗｳﾞｨﾝｽｷｰ",
+            "Kaapstad",
+            "Da Is Done"
+        ],
+        "indices": [
+            5,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｺﾞｼﾞｭｯﾎﾟﾋｬｯﾎﾟ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10000,
+        "speed": 48,
+        "stamina": 52,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Hawk Wing",
+            "ﾊﾟﾝﾄﾚｾﾚﾌﾞﾙ",
+            "Glenstal",
+            "Bay Express"
+        ],
+        "indices": [
+            6,
+            10,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｺﾈｺﾁｬﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20000,
+        "speed": 68,
+        "stamina": 52,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "Kitten's Joy",
+            "Catienus",
+            "Red Ransom",
+            "Naskra"
+        ],
+        "indices": [
+            5,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｺﾞﾙﾃﾞｨﾛｯｸｽ",
+        "system": "ﾉｰｻﾞﾝﾃｰｽﾄ",
+        "fee": 26000,
+        "speed": 72,
+        "stamina": 54,
+        "power": 62,
+        "dirt": "○",
+        "ancestors": [
+            "ﾛｯｸｵﾌﾞｼﾞﾌﾞﾗﾙﾀﾙ",
+            "Nureyev",
+            "Alydar",
+            "Gallant Romeo"
+        ],
+        "indices": [
+            5,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ｺﾙﾄｺﾝｺﾙﾄﾞ",
+        "system": "ｲﾝﾃﾝﾄ",
+        "fee": 28000,
+        "speed": 66,
+        "stamina": 62,
+        "power": 61,
+        "dirt": "○",
+        "ancestors": [
+            "Tiz Wonderful",
+            "General Meeting",
+            "Half a Year",
+            "Slew o'Gold"
+        ],
+        "indices": [
+            14,
+            5,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ｺﾙﾋﾄﾞﾚ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8600,
+        "speed": 44,
+        "stamina": 49,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Marchand de Sable",
+            "Tropular",
+            "ｸﾘｽﾀﾙｸﾞﾘｯﾀｰｽﾞ",
+            "Never Bend"
+        ],
+        "indices": [
+            5,
+            3,
+            7,
+            3
+        ]
+    },
+    {
+        "name": "ｺﾝｶﾞﾗｶﾞｰﾙ",
+        "system": "ﾌｫﾙﾃｨﾉ",
+        "fee": 7200,
+        "speed": 50,
+        "stamina": 36,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾀｰｵﾌﾞｺｼﾞｰﾝ",
+            "ﾉｰｻﾞﾘｰ",
+            "ﾃｽｺﾎﾞｰｲ",
+            "ﾓﾝﾀｳﾞｧﾙ"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｺﾝﾊﾞｰｼﾞｮﾝ",
+        "system": "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+        "fee": 19000,
+        "speed": 69,
+        "stamina": 49,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "Unbridled",
+            "Caro",
+            "Lucky Mel"
+        ],
+        "indices": [
+            3,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｻｲﾚﾝﾄﾛﾏﾝｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 13000,
+        "speed": 58,
+        "stamina": 48,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾃﾞｨｸﾀｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Princely Gift"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5
+        ]
+    },
+    {
+        "name": "ｻｸﾗﾝﾎﾞﾍﾟｲ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 26000,
+        "speed": 58,
+        "stamina": 68,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Oratorio",
+            "ｴﾙﾅﾝﾄﾞ",
+            "Caerleon",
+            "Young Generation"
+        ],
+        "indices": [
+            5,
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｻﾃﾗｲﾄｵﾌｨｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 13000,
+        "speed": 55,
+        "stamina": 51,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝｸﾞｽﾋﾟｰﾙ",
+            "Kingmambo",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Danzig"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            4
+        ]
+    },
+    {
+        "name": "ｻﾌﾞｽｸﾘﾌﾟｼｮﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6000,
+        "speed": 36,
+        "stamina": 44,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "Sahm",
+            "Pleasant Tap",
+            "Jolie Jo",
+            "Olden Times"
+        ],
+        "indices": [
+            6,
+            5,
+            13,
+            13
+        ]
+    },
+    {
+        "name": "ｻﾙﾃﾞｨｰﾆｬ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 4000,
+        "speed": 40,
+        "stamina": 30,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "Giant's Cayseway",
+            "Seeking the Gold",
+            "Danzig",
+            "ReViewer"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｻﾝｻﾝｺﾞｺﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8200,
+        "speed": 40,
+        "stamina": 51,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾌｼﾞｷｾｷ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crimson Satan"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｼｰﾏﾘﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 60,
+        "stamina": 58,
+        "power": 56,
+        "dirt": "○",
+        "ancestors": [
+            "Caerleon",
+            "Shirley Heights",
+            "Tennyson",
+            "ｾﾞﾀﾞｰﾝ"
+        ],
+        "indices": [
+            5,
+            13,
+            3,
+            10
+        ]
+    },
+    {
+        "name": "ｼｪｲｸﾛﾏﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 9000,
+        "speed": 48,
+        "stamina": 47,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｸﾀｯﾄ",
+            "Surumu",
+            "Pentathlon",
+            "Lemon Hart"
+        ],
+        "indices": [
+            14,
+            5,
+            11,
+            1
+        ]
+    },
+    {
+        "name": "ｼｪﾙｽｸﾘﾌﾟﾄ",
+        "system": "ｴﾀﾝ",
+        "fee": 9000,
+        "speed": 46,
+        "stamina": 49,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Selkirk",
+            "Linamix",
+            "Alydar",
+            "Jachinto"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ｼﾞｯﾀｰﾊﾞｯｸﾞ",
+        "system": "ﾃﾃﾞｨ",
+        "fee": 5400,
+        "speed": 40,
+        "stamina": 37,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "ｵｼﾞｼﾞｱﾝ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ﾎﾞｰﾙﾄﾞﾘｯｸ",
+            "Whistler"
+        ],
+        "indices": [
+            9,
+            4,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ｼﾐｰｵｩ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30000,
+        "speed": 60,
+        "stamina": 70,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "Medicean",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Conquistador Cielo",
+            "ｲｸｽﾌﾟﾛｳﾃﾞﾝﾄ"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ｼﾞｬｽﾞｸﾗﾌﾞﾊﾞﾝﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 14000,
+        "speed": 54,
+        "stamina": 54,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾘｱﾙｼｬﾀﾞｲ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            4,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ｼｬﾄﾞｰｷﾃｨ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8800,
+        "speed": 56,
+        "stamina": 38,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "ﾍﾈｼｰ",
+            "Kirtling",
+            "Crimson Satan",
+            "Kentucky Pride"
+        ],
+        "indices": [
+            5,
+            2,
+            7,
+            12
+        ]
+    },
+    {
+        "name": "ｼﾞｬﾝｸｶﾞｼﾞｪｯﾄ",
+        "system": "ｵｰｴﾝﾃｭｰﾀﾞｰ",
+        "fee": 4000,
+        "speed": 32,
+        "stamina": 38,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "Cadeaux Genereux",
+            "Kaldoun",
+            "Nureyev",
+            "Secretariat"
+        ],
+        "indices": [
+            11,
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｼｬﾝﾃﾞｨ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 28000,
+        "speed": 64,
+        "stamina": 64,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "Awesome Again",
+            "Bold Revenue",
+            "Wise Exchange",
+            "Rambunctious"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            9
+        ]
+    },
+    {
+        "name": "ｼﾞｭﾘｴｯﾄｽﾀｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 9800,
+        "speed": 46,
+        "stamina": 53,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "Distorted Humor",
+            "Home At Last",
+            "Blade",
+            "Full Pocket"
+        ],
+        "indices": [
+            6,
+            5,
+            10,
+            3
+        ]
+    },
+    {
+        "name": "ｼｮｺﾗﾃ",
+        "system": "ﾊｲﾍﾟﾘｵﾝ",
+        "fee": 7200,
+        "speed": 46,
+        "stamina": 40,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "Efisio",
+            "Goldneyev",
+            "Pharly",
+            "Relic"
+        ],
+        "indices": [
+            11,
+            2,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｼﾙﾊﾞｰｻﾝ",
+        "system": "ﾄﾑﾌｰﾙ",
+        "fee": 5200,
+        "speed": 32,
+        "stamina": 44,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾙﾊﾞｰﾁｬｰﾑ",
+            "ﾏｲﾆﾝｸﾞ",
+            "Clever Trick",
+            "Pia Star"
+        ],
+        "indices": [
+            8,
+            13,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｼﾛﾊﾞﾗﾉｵﾄﾒ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 28000,
+        "speed": 56,
+        "stamina": 72,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Mr. Greeley",
+            "Classic Go Go",
+            "Icecapade",
+            "Roberto"
+        ],
+        "indices": [
+            6,
+            3,
+            7,
+            5
+        ]
+    },
+    {
+        "name": "ｼﾝｶﾞﾌﾟｰﾗ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 38000,
+        "speed": 64,
+        "stamina": 74,
+        "power": 63,
+        "dirt": "○",
+        "ancestors": [
+            "Green Tune",
+            "Noir Et Or",
+            "Luthier",
+            "Yorick"
+        ],
+        "indices": [
+            5,
+            6,
+            3,
+            15
+        ]
+    },
+    {
+        "name": "ｼﾝｸﾞｳﾞｪﾄﾘﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 15000,
+        "speed": 52,
+        "stamina": 58,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Bertolini",
+            "ﾘﾌｧｰｽﾞｽﾍﾟｼｬﾙ",
+            "ｼﾞｭﾆｱｽ"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ｽｲｰﾄﾃﾚﾊﾟｼｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 12000,
+        "speed": 56,
+        "stamina": 48,
+        "power": 50,
+        "dirt": "◎",
+        "ancestors": [
+            "Seeking the Gold",
+            "Pleasant Colony",
+            "Nijinsky",
+            "Mr. Prospector"
+        ],
+        "indices": [
+            6,
+            8,
+            13,
+            5
+        ]
+    },
+    {
+        "name": "ｽｲﾍｲﾘｰﾍﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7600,
+        "speed": 44,
+        "stamina": 44,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ﾎﾜｲﾄﾏｽﾞﾙ",
+            "ｸﾞﾙｰﾑﾀﾞﾝｻｰ",
+            "Spectacular Bid",
+            "Damascus"
+        ],
+        "indices": [
+            5,
+            7,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ｽｶｲｼﾙﾋﾞｱ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 40000,
+        "speed": 78,
+        "stamina": 62,
+        "power": 69,
+        "dirt": "○",
+        "ancestors": [
+            "Silve Hawk",
+            "Niniski",
+            "Tyrant",
+            "Le Haar"
+        ],
+        "indices": [
+            4,
+            2,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｽｸﾘｰﾝｷｬﾌﾟﾁｬ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 18000,
+        "speed": 64,
+        "stamina": 53,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "ﾀﾞﾝﾃﾞｨﾙｰﾄ"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｽｺｰﾙﾐｭｰｼﾞｯｸ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 18000,
+        "speed": 54,
+        "stamina": 62,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Kingmambo",
+            "Sadler's Wells",
+            "Pretense",
+            "Swap"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ｽｽﾞｱｶﾈ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 6000,
+        "speed": 32,
+        "stamina": 48,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "ﾍﾟﾝﾀｲｱ",
+            "ｻｸﾗｼｮｳﾘ",
+            "ﾃﾞｲﾊﾞｲﾝｷﾞﾌﾄ",
+            "ｷﾝｸﾞｽﾍﾞﾝﾁ"
+        ],
+        "indices": [
+            5,
+            3,
+            15,
+            3
+        ]
+    },
+    {
+        "name": "ｽﾃｨｯｸｳｨｽﾞﾕｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8400,
+        "speed": 50,
+        "stamina": 42,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Lomitas",
+            "ﾃﾞｲﾝﾋﾙ",
+            "High Top",
+            "Violon d's Ingres"
+        ],
+        "indices": [
+            5,
+            11,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ｽﾃﾃﾞｨｰｱｹﾞｲﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8400,
+        "speed": 54,
+        "stamina": 38,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Unbridled's Song",
+            "Slew o'Gold",
+            "Storm Bird",
+            "Nasomo"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｽﾃﾙﾝﾍﾞﾙｷﾞｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8600,
+        "speed": 48,
+        "stamina": 45,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Acatenango",
+            "Bering",
+            "Tennyson",
+            "Orsini"
+        ],
+        "indices": [
+            11,
+            10,
+            6,
+            10
+        ]
+    },
+    {
+        "name": "ｽﾈｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 9000,
+        "speed": 42,
+        "stamina": 53,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Motivator",
+            "ｸｴｽﾄﾌｫｰﾌｪｲﾑ",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Runnett"
+        ],
+        "indices": [
+            5,
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｽﾊﾟﾆｯｼｭﾗｲﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 6800,
+        "speed": 42,
+        "stamina": 42,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ﾌｼﾞｷｾｷ",
+            "Theatrical",
+            "Drone"
+        ],
+        "indices": [
+            5,
+            13,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｽﾋﾟｵｺｰﾌﾟ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7800,
+        "speed": 48,
+        "stamina": 41,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Marju",
+            "Rossini",
+            "Vettori",
+            "Pursuit of Love"
+        ],
+        "indices": [
+            5,
+            13,
+            6,
+            6
+        ]
+    },
+    {
+        "name": "ｽﾌﾟﾘﾝｸﾞｽｲｰﾂ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50000,
+        "speed": 68,
+        "stamina": 76,
+        "power": 67,
+        "dirt": "○",
+        "ancestors": [
+            "Machiavellian",
+            "Nureyev",
+            "Blushing Groom",
+            "Halo"
+        ],
+        "indices": [
+            6,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｽﾍﾟｰｽｻﾌｧｲｱ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 4400,
+        "speed": 36,
+        "stamina": 36,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ﾏｲﾈﾙﾗｳﾞ",
+            "Cadeaux Genereux",
+            "Shirley Heights",
+            "Jimmy Reppin"
+        ],
+        "indices": [
+            6,
+            5,
+            11,
+            3
+        ]
+    },
+    {
+        "name": "ｾﾒﾚｰ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 9200,
+        "speed": 44,
+        "stamina": 52,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Tapit",
+            "Mr. Greeley",
+            "Pleasant Colony",
+            "Nijinsky"
+        ],
+        "indices": [
+            3,
+            6,
+            6,
+            13
+        ]
+    },
+    {
+        "name": "ｾﾙﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 10000,
+        "speed": 50,
+        "stamina": 50,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "O'Reilly",
+            "Blues Traveller",
+            "Icelandic",
+            "Solaboy"
+        ],
+        "indices": [
+            5,
+            13,
+            5,
+            15
+        ]
+    },
+    {
+        "name": "ｿｰﾌｧｰｿｰｸﾞｯﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 7600,
+        "speed": 42,
+        "stamina": 46,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "Fairy King",
+            "Precocious",
+            "Persian Bold"
+        ],
+        "indices": [
+            4,
+            3,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｿﾝｸﾞｵﾌﾞﾀﾞｲﾔ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4400,
+        "speed": 30,
+        "stamina": 42,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Caerleon",
+            "Woodman",
+            "Danzig"
+        ],
+        "indices": [
+            4,
+            3,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾀﾞｰｸｻｲﾄﾞﾑｰﾝ",
+        "system": "ﾅｽﾙｰﾗ",
+        "fee": 22000,
+        "speed": 56,
+        "stamina": 66,
+        "power": 56,
+        "dirt": "○",
+        "ancestors": [
+            "ﾄﾆｰﾋﾞﾝ",
+            "Always Run Lucky",
+            "ｱｲﾘｯｼｭﾘｳﾞｧｰ",
+            "Northern Dancer"
+        ],
+        "indices": [
+            3,
+            11,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾀｲﾀﾝﾃﾃｨｽ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 8800,
+        "speed": 52,
+        "stamina": 42,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Concord's Tune",
+            "Slew Gin Fizz",
+            "Who's for Dinner",
+            "Soy Numero Uno"
+        ],
+        "indices": [
+            3,
+            11,
+            14,
+            6
+        ]
+    },
+    {
+        "name": "ﾁｬｰﾐﾝｸﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 3300,
+        "speed": 30,
+        "stamina": 36,
+        "power": 30,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "Storm Cat",
+            "Damascus"
+        ],
+        "indices": [
+            4,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾁｬｯｷﾗｺ",
+        "system": "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+        "fee": 10000,
+        "speed": 56,
+        "stamina": 44,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "Kingmambo",
+            "Green Dancer",
+            "Proudest Roman"
+        ],
+        "indices": [
+            3,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾁﾔﾎﾔ",
+        "system": "ﾘﾎﾞｰ",
+        "fee": 5400,
+        "speed": 38,
+        "stamina": 39,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "ﾊﾞﾝﾌﾞｰﾋﾞｷﾞﾝ",
+            "Seattle Slew",
+            "Alydar",
+            "Crafty Admiral"
+        ],
+        "indices": [
+            13,
+            5,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ﾁｮｺﾊﾞﾅﾅ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 12000,
+        "speed": 52,
+        "stamina": 52,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "Monsun",
+            "Goofalik",
+            "Star Appeal",
+            "Waldcanter"
+        ],
+        "indices": [
+            10,
+            11,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾂｧﾗﾄｩｽﾄﾗ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4800,
+        "speed": 40,
+        "stamina": 34,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "ﾊｰﾂｸﾗｲ",
+            "ｱﾚﾐﾛｰﾄﾞ",
+            "ﾃﾞｨｸﾀｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            11
+        ]
+    },
+    {
+        "name": "ﾃﾞｨｱﾒﾃｨｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 8000,
+        "speed": 44,
+        "stamina": 46,
+        "power": 42,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀﾆﾉｷﾞﾑﾚｯﾄ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾃﾞｨｰﾌﾟﾗｰﾆﾝｸﾞ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 11000,
+        "speed": 50,
+        "stamina": 53,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Crocker Road",
+            "Golden Voyager",
+            "Cox's Ridge",
+            "Nodouble"
+        ],
+        "indices": [
+            3,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "name": "ﾃｨｰﾛｺﾝﾗﾙｺ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 67,
+        "stamina": 52,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｧﾙﾌﾞﾗｳﾞ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "ﾊﾟｰｿﾛﾝ"
+        ],
+        "indices": [
+            5,
+            3,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ﾃﾞｲｻｲｴﾝｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 11000,
+        "speed": 48,
+        "stamina": 54,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "Sholokhov",
+            "Monsun",
+            "Kalaglow",
+            "Northfields"
+        ],
+        "indices": [
+            5,
+            4,
+            10,
+            3
+        ]
+    },
+    {
+        "name": "ﾃﾞｷｬﾝﾀ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 7600,
+        "speed": 40,
+        "stamina": 48,
+        "power": 40,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "ｴﾙｺﾝﾄﾞﾙﾊﾟｻｰ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Dewan"
+        ],
+        "indices": [
+            4,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾃﾞｸﾞﾚ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 8200,
+        "speed": 48,
+        "stamina": 43,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀﾆﾉｷﾞﾑﾚｯﾄ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nureyev",
+            "Sharpen Up"
+        ],
+        "indices": [
+            4,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾃﾞｼﾞﾀﾙｼﾌﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 7600,
+        "speed": 50,
+        "stamina": 38,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+            "ﾒﾝﾃﾞｽ",
+            "ﾌｨﾀﾞﾙｺ"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾃﾐｽﾄﾋﾏﾘｱ",
+        "system": "ﾌﾞﾚﾆﾑ",
+        "fee": 9200,
+        "speed": 52,
+        "stamina": 44,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Mtomo",
+            "Cape Cross",
+            "The Noble Player",
+            "Double Form"
+        ],
+        "indices": [
+            10,
+            14,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾃﾝｾｸﾞﾘﾃｨ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 4000,
+        "speed": 36,
+        "stamina": 34,
+        "power": 33,
+        "dirt": "○",
+        "ancestors": [
+            "Giant's Causeway",
+            "Royal Applause",
+            "Silver Hawk",
+            "Woodman"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾄｩｲﾝｸﾙｱｹﾞﾊ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 7600,
+        "speed": 46,
+        "stamina": 42,
+        "power": 42,
+        "dirt": "○",
+        "ancestors": [
+            "Woodman",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            6,
+            8,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ﾄｩﾙｰｴﾝﾄﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 17000,
+        "speed": 58,
+        "stamina": 57,
+        "power": 54,
+        "dirt": "○",
+        "ancestors": [
+            "Librettist",
+            "ﾘﾌｧｰｽﾞｽﾍﾟｼｬﾙ",
+            "ｼﾞｭﾆｱｽ",
+            "Darling Boy"
+        ],
+        "indices": [
+            5,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾄｩﾝｶﾛﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 9400,
+        "speed": 54,
+        "stamina": 43,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "Kitten's Joy",
+            "Grand Slam",
+            "Easy Goer",
+            "Nijinsky"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            6
+        ]
+    },
+    {
+        "name": "ﾄﾞﾄﾞﾄﾞﾄﾞｰﾊﾟﾐﾝ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 6000,
+        "speed": 44,
+        "stamina": 36,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "Favorite Trick",
+            "Saratoga Six",
+            "Wise Exchange",
+            "First Langing"
+        ],
+        "indices": [
+            5,
+            11,
+            6,
+            9
+        ]
+    },
+    {
+        "name": "ﾄﾗﾝｽｶｲ",
+        "system": "ﾊﾝﾌﾟﾄﾝ",
+        "fee": 36000,
+        "speed": 66,
+        "stamina": 70,
+        "power": 63,
+        "dirt": "○",
+        "ancestors": [
+            "Acatenango",
+            "Be My Guest",
+            "Electrant",
+            "Norfolk"
+        ],
+        "indices": [
+            11,
+            10,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ﾄﾘﾄﾝﾌﾟﾘﾝｾｽ",
+        "system": "ｲﾝﾃﾝﾄ",
+        "fee": 18000,
+        "speed": 58,
+        "stamina": 58,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Tiznow",
+            "Seeking the Gold",
+            "Danzig",
+            "Buckpasser"
+        ],
+        "indices": [
+            14,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾄﾞﾙﾌｨﾝｸﾞﾘｰﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 3600,
+        "speed": 36,
+        "stamina": 32,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nashwan",
+            "ﾘﾏﾝﾄﾞ"
+        ],
+        "indices": [
+            5,
+            7,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ﾄﾞﾚﾊﾟﾆﾃﾞｨｰﾆ",
+        "system": "ﾈｲﾃｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 18000,
+        "speed": 67,
+        "stamina": 50,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Slat Lake",
+            "Spectacular Bid",
+            "Hard Work"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾄﾛｯﾄﾗｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 22000,
+        "speed": 54,
+        "stamina": 68,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Intikhab",
+            "Caerleon",
+            "Iron Duke",
+            "ﾄﾞﾝ"
+        ],
+        "indices": [
+            4,
+            6,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾄﾞﾛﾜｰｽﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 15000,
+        "speed": 60,
+        "stamina": 50,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Storm Cat",
+            "Alleged",
+            "Affirmed",
+            "Prince John"
+        ],
+        "indices": [
+            5,
+            3,
+            13,
+            6
+        ]
+    },
+    {
+        "name": "ﾅｲﾄﾚｸﾁｬｰ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 12000,
+        "speed": 50,
+        "stamina": 54,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Monsun",
+            "Dashing Blade",
+            "ｵｰﾙﾄﾞｳﾞｨｯｸ",
+            "Ridan"
+        ],
+        "indices": [
+            10,
+            11,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾅﾁｭﾗﾙﾌﾟﾛｾｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 16000,
+        "speed": 62,
+        "stamina": 50,
+        "power": 55,
+        "dirt": "◎",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "Capate",
+            "Miswaki",
+            "Well Decorated"
+        ],
+        "indices": [
+            5,
+            13,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ﾅﾝﾁｬﾉｼｺﾞﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7400,
+        "speed": 46,
+        "stamina": 41,
+        "power": 42,
+        "dirt": "○",
+        "ancestors": [
+            "Dansili",
+            "Indian Ridge",
+            "El Gran Senor",
+            "Auction Ring"
+        ],
+        "indices": [
+            5,
+            5,
+            15,
+            5
+        ]
+    },
+    {
+        "name": "ﾅﾝﾍﾞｲﾋｰﾛｰ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 17000,
+        "speed": 52,
+        "stamina": 62,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "Candy Strips",
+            "Propicio",
+            "Samos",
+            "The Rabbi"
+        ],
+        "indices": [
+            3,
+            5,
+            11,
+            14
+        ]
+    },
+    {
+        "name": "ﾆﾁﾖｳﾉｱｵｲﾂｷ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 34000,
+        "speed": 68,
+        "stamina": 66,
+        "power": 63,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "El Gran Senor",
+            "Caro",
+            "Tom Fool"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾈﾚｲﾄﾞﾗﾘｯｻ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7200,
+        "speed": 44,
+        "stamina": 42,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Nureyev",
+            "Terrible Tiger"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾉｰﾙｯｸﾊﾟｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 19000,
+        "speed": 62,
+        "stamina": 56,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾎﾟｯｾ",
+            "High Top",
+            "ｾﾝﾄｸﾚｽﾋﾟﾝ"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            2
+        ]
+    },
+    {
+        "name": "ﾉｯﾄｴｱﾎﾟｰﾄ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 4200,
+        "speed": 32,
+        "stamina": 39,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "Congaree",
+            "Valid Expectations",
+            "Lost Code",
+            "ﾘﾌｧｰｽﾞｳｨｯｼｭ"
+        ],
+        "indices": [
+            3,
+            5,
+            14,
+            13
+        ]
+    },
+    {
+        "name": "ﾊｰﾃｨﾊﾟｰﾃｨｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8400,
+        "speed": 44,
+        "stamina": 48,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Peintre Celebre",
+            "Bering",
+            "Sadler's Wells",
+            "Caro"
+        ],
+        "indices": [
+            5,
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾊｰﾌﾟｼｺｰﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 9600,
+        "speed": 46,
+        "stamina": 52,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "Fusaichi Pegasus",
+            "Lost Code",
+            "Flying Paster",
+            "Never Bend"
+        ],
+        "indices": [
+            6,
+            5,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ﾊｰﾍﾞﾝｼﾞｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10000,
+        "speed": 46,
+        "stamina": 54,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Coastal",
+            "Sir Ivor",
+            "Hillary"
+        ],
+        "indices": [
+            4,
+            9,
+            6,
+            4
+        ]
+    },
+    {
+        "name": "ﾊﾟｲｿﾝﾙﾋﾞｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 9200,
+        "speed": 50,
+        "stamina": 46,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "Smoke Glacken",
+            "Deputy Minister",
+            "Seeking the Gold",
+            "Nijinsky"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾊｲﾋﾞｽｶｽｶﾞｰﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6400,
+        "speed": 42,
+        "stamina": 40,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Tejano Run",
+            "Lord Gayload",
+            "Source Boat"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ﾊﾟｲﾌﾟｵﾙｶﾞﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 9600,
+        "speed": 52,
+        "stamina": 46,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾌｧﾙﾌﾞﾗｳﾞ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Northern Dancer"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾊｲﾗｲﾌ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 18000,
+        "speed": 64,
+        "stamina": 52,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ﾀﾆﾉｷﾞﾑﾚｯﾄ",
+            "ﾙｼｮﾝ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "ﾀﾞﾝﾃﾞｨﾙｰﾄ"
+        ],
+        "indices": [
+            4,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾊﾟｴﾘｱ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 18000,
+        "speed": 63,
+        "stamina": 54,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾋｯﾃｨﾝｸﾞｱｳｪｰ",
+            "Porterhouse"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            15
+        ]
+    },
+    {
+        "name": "ﾊﾞｽﾞﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10000,
+        "speed": 52,
+        "stamina": 48,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Elusive Quality",
+            "Storm Cat",
+            "Touch Gold",
+            "Alleged"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾊｯﾋﾟｰﾁｭﾆｯｸ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 34000,
+        "speed": 66,
+        "stamina": 68,
+        "power": 63,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾌｼﾞｷｾｷ",
+            "El Gran Senor",
+            "Graustark"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾊｯﾋﾟｰﾊｲｽｸｰﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7200,
+        "speed": 42,
+        "stamina": 44,
+        "power": 40,
+        "dirt": "○",
+        "ancestors": [
+            "Giant's Causeway",
+            "ｻﾝﾀﾞｰｶﾞﾙﾁ",
+            "Regal and Royal",
+            "Private Account"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            11
+        ]
+    },
+    {
+        "name": "ﾊｯﾋﾟｰﾏﾝﾃﾞｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 8000,
+        "speed": 40,
+        "stamina": 50,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ﾘｱﾙｼｬﾀﾞｲ",
+            "Gulch",
+            "Clever Trick",
+            "Raja Baba"
+        ],
+        "indices": [
+            4,
+            14,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾊﾟﾌﾞﾘﾚｰｼｮﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8400,
+        "speed": 52,
+        "stamina": 40,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "Invincible Spirit",
+            "Cadeaux Genereus",
+            "Shirley Heights",
+            "ｼｰﾎｰｸ"
+        ],
+        "indices": [
+            5,
+            6,
+            11,
+            3
+        ]
+    },
+    {
+        "name": "ﾊﾞﾗｰﾄﾞﾗﾌﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 6000,
+        "speed": 40,
+        "stamina": 40,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "ﾄﾞｸﾀｰﾃﾞｳﾞｨｱｽ",
+            "Mr. Prospector",
+            "Bold Reason"
+        ],
+        "indices": [
+            4,
+            13,
+            15,
+            6
+        ]
+    },
+    {
+        "name": "ﾊﾟﾚﾝｹ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7200,
+        "speed": 40,
+        "stamina": 46,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "Dylan Thomas",
+            "ｴﾙﾅﾝﾄﾞ",
+            "Caerleon",
+            "Young Generation"
+        ],
+        "indices": [
+            5,
+            6,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾊﾟﾝﾂｪﾛｯﾃｨ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 7200,
+        "speed": 38,
+        "stamina": 48,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "Sinndar",
+            "Darshaan",
+            "J.O. Tobin",
+            "Orsini"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾋﾟｱﾆｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 22000,
+        "speed": 62,
+        "stamina": 60,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Sadler's Wells",
+            "ｲﾝｸﾞﾘｯｼｭﾌﾟﾘﾝｽ"
+        ],
+        "indices": [
+            4,
+            3,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾋﾞｱﾝｶﾘﾎﾞﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8000,
+        "speed": 52,
+        "stamina": 38,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "ﾐｼﾙ",
+            "ﾊﾟｰｸﾘｰｼﾞｪﾝﾄ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "Never Say Die"
+        ],
+        "indices": [
+            6,
+            10,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾋﾟｰｽｵﾌﾞｹｰｷ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 6800,
+        "speed": 46,
+        "stamina": 38,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾄﾞｸﾀｰﾃﾞｳﾞｨｱｽ",
+            "Danzig",
+            "Damascus"
+        ],
+        "indices": [
+            4,
+            5,
+            15,
+            5
+        ]
+    },
+    {
+        "name": "ﾋｰｽﾞﾊｰｽﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6000,
+        "speed": 46,
+        "stamina": 34,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｧﾙﾌﾞﾗｳﾞ",
+            "ｴﾙｺﾝﾄﾞﾙﾊﾟｻｰ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            4
+        ]
+    },
+    {
+        "name": "ﾋｸﾄｺﾋｷﾏｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 5200,
+        "speed": 40,
+        "stamina": 36,
+        "power": 36,
+        "dirt": "◎",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ﾎﾟﾂｾ",
+            "High Top"
+        ],
+        "indices": [
+            4,
+            13,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾋﾞｾｲﾌﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 19000,
+        "speed": 70,
+        "stamina": 48,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Danzig",
+            "Icecapade",
+            "Young Emperor"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾋｯﾄｱﾝﾄﾞｽﾀﾝﾄﾞ",
+        "system": "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+        "fee": 19000,
+        "speed": 65,
+        "stamina": 53,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "Herat",
+            "Ruthie's Native",
+            "Star Envoy"
+        ],
+        "indices": [
+            3,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾋｯﾎﾟﾄｴｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 6800,
+        "speed": 44,
+        "stamina": 40,
+        "power": 40,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｧﾙﾌﾞﾗｳﾞ",
+            "Caerleon",
+            "Fabulous Dancer",
+            "Free Roung"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾋﾞﾊｲﾝﾄﾞｻﾞｼｰﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 28000,
+        "speed": 60,
+        "stamina": 68,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "Canadian Frontier",
+            "El Prado",
+            "Clever Trick",
+            "Full Out"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾋﾒﾉﾋｰﾄｱｯﾌﾟ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 10000,
+        "speed": 58,
+        "stamina": 42,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "ﾊﾞﾊｯﾄ",
+            "ｻﾝｼｰ",
+            "ﾈｳﾞｧｰﾋﾞｰﾄ"
+        ],
+        "indices": [
+            3,
+            5,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾋｭｰﾏﾝﾘｿｰｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 6800,
+        "speed": 40,
+        "stamina": 44,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "ﾌｼﾞｷｾｷ",
+            "ﾃﾞｨｸﾀｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            5,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾋﾟﾝｸﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 9600,
+        "speed": 44,
+        "stamina": 54,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Marju",
+            "Distant Relative",
+            "Final Straw"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾌｧﾌﾛﾂｷｰｽﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10000,
+        "speed": 54,
+        "stamina": 46,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "ｱﾙﾃﾞﾊﾞﾗﾝII",
+            "Common Grounds",
+            "Nureyev",
+            "Seattle Slew"
+        ],
+        "indices": [
+            6,
+            9,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾌｨｰﾊﾞｰｽﾀｲﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6800,
+        "speed": 38,
+        "stamina": 46,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾃﾞｼﾞﾀﾙ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Riverman",
+            "Ribot"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ﾌｨｯﾄﾁｰﾈ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 11000,
+        "speed": 54,
+        "stamina": 48,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "ｱﾄﾞﾏｲﾔﾍﾞｶﾞ",
+            "Machiavellian",
+            "Nureyev",
+            "Owen Anthony"
+        ],
+        "indices": [
+            4,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾌｨｯﾄﾚｵﾀｰﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 11000,
+        "speed": 52,
+        "stamina": 50,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Risen Star",
+            "Nureyev",
+            "What a Pleasure"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾌｪｲﾙｵｰﾊﾞｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8000,
+        "speed": 50,
+        "stamina": 40,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Cactus Ridge",
+            "Broad Brush",
+            "Private Account",
+            "Majestic Light"
+        ],
+        "indices": [
+            5,
+            6,
+            12,
+            9
+        ]
+    },
+    {
+        "name": "ﾌｪﾉﾐﾅ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 18000,
+        "speed": 56,
+        "stamina": 60,
+        "power": 54,
+        "dirt": "○",
+        "ancestors": [
+            "Dubai Millennium",
+            "Danzig",
+            "His Majesty",
+            "Raise a Native"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾌｫﾃｨｰﾉ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6400,
+        "speed": 46,
+        "stamina": 36,
+        "power": 40,
+        "dirt": "○",
+        "ancestors": [
+            "Dubai Destination",
+            "ｼﾝｸﾞｽﾋﾟｰﾙ",
+            "ｼｬｰﾃﾞｨｰ",
+            "Relkino"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾌｼｷﾞﾁｬﾝ",
+        "system": "ﾃﾃﾞｨ",
+        "fee": 5200,
+        "speed": 34,
+        "stamina": 42,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ｵｼﾞｼﾞｱﾝ",
+            "Roberto",
+            "Pronto",
+            "Princequillo"
+        ],
+        "indices": [
+            9,
+            4,
+            4,
+            15
+        ]
+    },
+    {
+        "name": "ﾌﾗｲﾝｸﾞﾋﾟｰﾁ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 9200,
+        "speed": 48,
+        "stamina": 48,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "Unbridled's Song",
+            "Storm Cat",
+            "Blushing Groom",
+            "T.V. Lark"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾌﾞﾗｯｸﾘﾎﾞﾝ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 7600,
+        "speed": 48,
+        "stamina": 40,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Out of Place",
+            "Star de Naskra",
+            "Cornish Prince",
+            "War Admiral"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾌﾞﾗｯｸﾙﾋﾞｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6800,
+        "speed": 48,
+        "stamina": 36,
+        "power": 41,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾀﾞｰｶﾞﾙﾁ",
+            "ﾘｱﾙｼｬﾀﾞｲ",
+            "ｻｰﾍﾟﾝﾌﾛ",
+            "ｼﾞﾙﾄﾞﾚ"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "name": "ﾌﾞﾗﾃﾞｨｵﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 5600,
+        "speed": 40,
+        "stamina": 38,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "ｴﾝﾊﾟｲｱﾒｰｶｰ",
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Gulch",
+            "Northern Dancer"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ﾌﾘｰﾌｨｰﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 9600,
+        "speed": 50,
+        "stamina": 48,
+        "power": 46,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Highest Honor",
+            "ﾊﾞｲｱﾓﾝ",
+            "Green Dancer"
+        ],
+        "indices": [
+            4,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾌﾘｯｸﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 9200,
+        "speed": 46,
+        "stamina": 50,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "Shamardal",
+            "Green Desert",
+            "Beau Genius",
+            "Mr. Leader"
+        ],
+        "indices": [
+            5,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾌﾟﾘﾃｨｴﾘｶ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6600,
+        "speed": 40,
+        "stamina": 43,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "Unbridled",
+            "Halo",
+            "Herbager",
+            "Chhoes"
+        ],
+        "indices": [
+            6,
+            13,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾌﾟﾘﾄｳﾞｨｯﾂｪ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 6400,
+        "speed": 38,
+        "stamina": 44,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Sadler's Wells",
+            "Habitat"
+        ],
+        "indices": [
+            4,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾌﾟﾘﾝｾｽﾌｨﾅｰﾚ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 14000,
+        "speed": 60,
+        "stamina": 48,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Broad Brush",
+            "Valid Appeal",
+            "Secretariat"
+        ],
+        "indices": [
+            6,
+            5,
+            12,
+            14
+        ]
+    },
+    {
+        "name": "ﾌﾙｰﾂﾃｨﾗﾐｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 6600,
+        "speed": 36,
+        "stamina": 47,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Sadler's Wells",
+            "ｲﾝｸﾞﾘｯｼｭﾌﾟﾘﾝｽ"
+        ],
+        "indices": [
+            4,
+            13,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾌﾟﾙﾘｸｴｽﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8800,
+        "speed": 50,
+        "stamina": 44,
+        "power": 45,
+        "dirt": "○",
+        "ancestors": [
+            "Wildcat Heir",
+            "Silver Buck",
+            "ｱﾌﾘｰﾄ",
+            "Lawmaker"
+        ],
+        "indices": [
+            5,
+            6,
+            8,
+            6
+        ]
+    },
+    {
+        "name": "ﾌﾞﾚｲｷﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 5200,
+        "speed": 36,
+        "stamina": 40,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "Dynaformer",
+            "Acatenango",
+            "Be My Guest",
+            "Elektrant"
+        ],
+        "indices": [
+            4,
+            13,
+            11,
+            5
+        ]
+    },
+    {
+        "name": "ﾌﾞﾚｲｸｱｯﾌﾟ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 12000,
+        "speed": 48,
+        "stamina": 57,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "Nureyev",
+            "Blushing Groom",
+            "Halo"
+        ],
+        "indices": [
+            4,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾌﾟﾚﾐｱﾑﾌﾗｲﾃﾞｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5600,
+        "speed": 44,
+        "stamina": 34,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "Storm Cat",
+            "Touch Gold",
+            "Alleged",
+            "Blushing Groom"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾌﾞﾛｯｸﾊｯｼｭ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5200,
+        "speed": 42,
+        "stamina": 34,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "Orpen",
+            "Chief Singer",
+            "Green Dancer",
+            "Relko"
+        ],
+        "indices": [
+            5,
+            4,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾌﾟﾛﾋﾞﾃﾞﾝｼｬﾚｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 3000,
+        "speed": 32,
+        "stamina": 32,
+        "power": 30,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾞﾗｯｸﾎｰｸ",
+            "ﾍｸﾀｰﾌﾟﾛﾃｸﾀｰ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Dewan"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾌﾛﾘｵｸﾞﾗﾌｨｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 13000,
+        "speed": 60,
+        "stamina": 46,
+        "power": 52,
+        "dirt": "○",
+        "ancestors": [
+            "ｱﾄﾞﾏｲﾔﾍﾞｶﾞ",
+            "Topsider",
+            "Sir Gaylord",
+            "Jet Pilot"
+        ],
+        "indices": [
+            4,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾌﾛﾝﾄｴﾝﾄﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 6000,
+        "speed": 38,
+        "stamina": 42,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｧﾙﾌﾞﾗｳﾞ",
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Mr. Prospector"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾍｳﾞﾝﾗﾃｨｰﾉ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 26000,
+        "speed": 64,
+        "stamina": 62,
+        "power": 60,
+        "dirt": "◎",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Sadler's Wells",
+            "Ribot",
+            "Dedicated"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾍﾞｯﾄﾕｱﾌﾞｰﾂ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 16000,
+        "speed": 44,
+        "stamina": 68,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "ｴﾘｼｵ",
+            "Caveat",
+            "Nijinsky",
+            "Herbager"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾍﾞﾗﾄﾞﾝﾅ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 15000,
+        "speed": 54,
+        "stamina": 56,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "Zieten",
+            "Red Sunset",
+            "Espresso",
+            "Djebe"
+        ],
+        "indices": [
+            5,
+            4,
+            3,
+            10
+        ]
+    },
+    {
+        "name": "ﾍﾞﾙﾘﾝﾌﾞﾙｰ",
+        "system": "ﾀﾞﾝﾃ",
+        "fee": 17000,
+        "speed": 60,
+        "stamina": 54,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Pistolet Bleu",
+            "Tourangeau",
+            "Cadmus",
+            "Soleil Levant"
+        ],
+        "indices": [
+            2,
+            2,
+            10,
+            14
+        ]
+    },
+    {
+        "name": "ﾎｰﾌﾟｲｽﾞﾊｲ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 5000,
+        "speed": 34,
+        "stamina": 41,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ｾﾞﾝﾉﾛﾌﾞﾛｲ",
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ﾚｲﾝﾎﾞｰｱﾝﾊﾞｰ",
+            "ﾌｧｰｽﾄﾌｧﾐﾘｰ"
+        ],
+        "indices": [
+            4,
+            6,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾎﾞｰﾘﾝｸﾞｻﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 11000,
+        "speed": 53,
+        "stamina": 50,
+        "power": 49,
+        "dirt": "○",
+        "ancestors": [
+            "ｱﾄﾞﾏｲﾔﾑｰﾝ",
+            "ﾃﾝﾋﾞｰ",
+            "ｶｺｲｰｼｰｽﾞ",
+            "ﾏﾙｾﾞﾝｽｷｰ"
+        ],
+        "indices": [
+            6,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾎﾞｰﾙﾙｰﾑﾀﾞﾝｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 6200,
+        "speed": 45,
+        "stamina": 36,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Lyphard",
+            "ﾛｲﾔﾙｽｷｰ"
+        ],
+        "indices": [
+            4,
+            13,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾎｸﾞｳｨｰﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8400,
+        "speed": 46,
+        "stamina": 46,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Roi Normand",
+            "Falcon Jet",
+            "Fred Astaire",
+            "Diplomat Way"
+        ],
+        "indices": [
+            6,
+            15,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾎﾞｯﾁｬ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 5200,
+        "speed": 44,
+        "stamina": 32,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "Smart Strike",
+            "Zilzal",
+            "Reviewer",
+            "ﾀﾞﾝｻｰｽﾞｲﾒｰｼﾞ"
+        ],
+        "indices": [
+            6,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾎﾟﾌﾟﾘﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20000,
+        "speed": 56,
+        "stamina": 64,
+        "power": 55,
+        "dirt": "○",
+        "ancestors": [
+            "Unbridled's Song",
+            "General Meeting",
+            "Riverman",
+            "Pia Star"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾎﾜｲﾄｵﾚﾝｼﾞ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 5000,
+        "speed": 42,
+        "stamina": 33,
+        "power": 37,
+        "dirt": "○",
+        "ancestors": [
+            "ﾊﾞｺﾞ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Kris",
+            "Seattle Slew"
+        ],
+        "indices": [
+            3,
+            5,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ﾎﾜｲﾄｼｮｺﾗ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 17000,
+        "speed": 58,
+        "stamina": 56,
+        "power": 56,
+        "dirt": "◎",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Topsider",
+            "Star de Naskra"
+        ],
+        "indices": [
+            5,
+            7,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾎﾜｲﾄﾌｫｰﾄﾚｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 9600,
+        "speed": 54,
+        "stamina": 44,
+        "power": 48,
+        "dirt": "○",
+        "ancestors": [
+            "Silver Hawk",
+            "Caerleon",
+            "ｲﾝﾃﾞｪｱﾝｷﾝｸﾞ",
+            "ｸﾞﾗﾝﾃﾞｨ"
+        ],
+        "indices": [
+            4,
+            2,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾏｲｶﾞｰﾙﾌﾚﾝﾄﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 9200,
+        "speed": 54,
+        "stamina": 42,
+        "power": 47,
+        "dirt": "○",
+        "ancestors": [
+            "ｶｰﾈｷﾞｰ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ﾀﾞｲｱﾄﾑ",
+            "ﾁｬｲﾅﾛｯｸ"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾏｲﾝﾀｰﾑ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 20000,
+        "speed": 73,
+        "stamina": 48,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "Pulpit",
+            "ﾍﾈｼｰ",
+            "Saratoga Six",
+            "Czaravich"
+        ],
+        "indices": [
+            3,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾏｲﾝﾄﾞﾌﾙﾈｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 3600,
+        "speed": 34,
+        "stamina": 34,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Zilzal",
+            "ｴﾝﾍﾟﾘｰ",
+            "Noholme"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾏｲﾝﾄﾞﾏｯﾌﾟ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 6000,
+        "speed": 42,
+        "stamina": 38,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "Gone West",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Niniski",
+            "Tyrant"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾏｼﾞｶﾙｱｸｼｮﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4800,
+        "speed": 38,
+        "stamina": 36,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            4,
+            3,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ﾏｼﾞｶﾙﾃﾝﾍﾟｽﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 59,
+        "stamina": 60,
+        "power": 56,
+        "dirt": "○",
+        "ancestors": [
+            "Storm Cat",
+            "Fappiano",
+            "Nijinsky",
+            "My Babu"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾏﾈｯﾁｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5600,
+        "speed": 38,
+        "stamina": 40,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "Country Reel",
+            "Loup Solitaire",
+            "Kaldoun",
+            "ｻﾃｨﾝｺﾞ"
+        ],
+        "indices": [
+            5,
+            3,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ﾏﾘﾝｼﾞｬｲﾌﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 4800,
+        "speed": 42,
+        "stamina": 32,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "ﾊﾝｾﾙ",
+            "ﾜｲｽﾞｶｳﾝｾﾗｰ",
+            "ﾃﾞｨｸﾀｽ",
+            "ｼﾝｻﾞﾝ"
+        ],
+        "indices": [
+            6,
+            5,
+            13,
+            11
+        ]
+    },
+    {
+        "name": "ﾏﾝﾘｰｽｲｰﾌﾟ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 5600,
+        "speed": 34,
+        "stamina": 44,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "Mtoto",
+            "Great Nephew",
+            "Graustark"
+        ],
+        "indices": [
+            6,
+            5,
+            10,
+            7
+        ]
+    },
+    {
+        "name": "ﾐｺｺﾛﾉﾏﾏﾆ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 60000,
+        "speed": 78,
+        "stamina": 70,
+        "power": 71,
+        "dirt": "○",
+        "ancestors": [
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Sadler's Wells",
+            "Habitat",
+            "Le Fabuleux"
+        ],
+        "indices": [
+            4,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾐｽﾃﾘｱｽｽﾏｲﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 24000,
+        "speed": 56,
+        "stamina": 68,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "Rossini",
+            "Vettori",
+            "Pursuit of Love",
+            "High Top"
+        ],
+        "indices": [
+            6,
+            5,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ﾐｽﾃﾘｱｽｾﾚﾌﾞ",
+        "system": "ｴﾀﾝ",
+        "fee": 22000,
+        "speed": 58,
+        "stamina": 64,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "Halling",
+            "Fairy King",
+            "ﾚｯﾄﾞｱﾗｰﾄ",
+            "Pampered King"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾐｽﾊﾟﾝｸﾁｭｱﾙ",
+        "system": "ﾊﾟｰｿﾛﾝ",
+        "fee": 7200,
+        "speed": 48,
+        "stamina": 38,
+        "power": 42,
+        "dirt": "○",
+        "ancestors": [
+            "ﾒｼﾞﾛﾏｯｸｲｰﾝ",
+            "ｶﾂﾗｷﾞｴｰｽ",
+            "ﾀﾞﾝｼﾝｸﾞｷｬｯﾌﾟ",
+            "ｺﾞｰﾙﾃﾞﾝﾊﾟｽ"
+        ],
+        "indices": [
+            15,
+            10,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ﾐｾﾞﾗﾌﾞﾙｳｪｲ",
+        "system": "ﾉｰｻﾞﾝﾃｰｽﾄ",
+        "fee": 22000,
+        "speed": 64,
+        "stamina": 58,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "Gold Away",
+            "Procida",
+            "Icecapade",
+            "Kennedy Road"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾐﾆﾐﾆﾃﾞｰﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 14000,
+        "speed": 62,
+        "stamina": 46,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Woodman",
+            "Nureyev",
+            "Big Spruce",
+            "What a Pleasure"
+        ],
+        "indices": [
+            6,
+            8,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾐﾌﾞﾉﾊﾅﾀｳｴ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 4600,
+        "speed": 42,
+        "stamina": 31,
+        "power": 36,
+        "dirt": "○",
+        "ancestors": [
+            "ﾎﾜｲﾄﾏｽﾞﾙ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾘｱﾙｼｬﾀﾞｲ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            5,
+            7,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ﾐﾐｨ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 21000,
+        "speed": 63,
+        "stamina": 58,
+        "power": 58,
+        "dirt": "◎",
+        "ancestors": [
+            "Northern Afleet",
+            "Forestry",
+            "Kris",
+            "Aydar"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾐﾑﾗｽ",
+        "system": "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+        "fee": 4400,
+        "speed": 40,
+        "stamina": 32,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "ｻｸﾗﾕﾀｶｵｰ",
+            "Blushing Groom",
+            "Mr. Prospector",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            3,
+            3,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ﾐﾗｲｱﾗﾓｰﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 4400,
+        "speed": 38,
+        "stamina": 34,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "Gone West",
+            "Baldski",
+            "Run Dusty Run",
+            "Sadair"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾐﾗﾉｼｱﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 32000,
+        "speed": 74,
+        "stamina": 58,
+        "power": 65,
+        "dirt": "○",
+        "ancestors": [
+            "Medicean",
+            "ｼﾝｸﾞｽﾋﾟｰﾙ",
+            "Linamix",
+            "Sallust"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾒﾀﾘｯｸﾋﾞｽﾁｪ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 8800,
+        "speed": 46,
+        "stamina": 48,
+        "power": 44,
+        "dirt": "○",
+        "ancestors": [
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾆﾎﾝﾋﾟﾛｳｲﾅｰ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Hawaii"
+        ],
+        "indices": [
+            3,
+            11,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾒﾝｶﾘﾅﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4400,
+        "speed": 34,
+        "stamina": 38,
+        "power": 33,
+        "dirt": "○",
+        "ancestors": [
+            "ｸﾞﾗｽﾜﾝﾀﾞｰ",
+            "ｱﾚﾐﾛｰﾄﾞ",
+            "Wajima",
+            "Raise a Native"
+        ],
+        "indices": [
+            4,
+            5,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ﾓｶﾊﾞﾘｽﾀ",
+        "system": "ﾃﾃﾞｨ",
+        "fee": 4400,
+        "speed": 32,
+        "stamina": 40,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "ｿｳﾙｵﾌﾞｻﾞﾏﾀｰ",
+            "ﾌﾚﾝﾁｸﾞﾛｰﾘｰ",
+            "Mr. Prospector",
+            "Hoist the Flag"
+        ],
+        "indices": [
+            9,
+            3,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾓﾘﾝﾎｰﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4000,
+        "speed": 42,
+        "stamina": 28,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ﾎﾜｲﾄﾏｽﾞﾙ",
+            "ｻｳｽｱﾄﾗﾝﾃｨｯｸ",
+            "ﾊﾟｰｿﾛﾝ"
+        ],
+        "indices": [
+            4,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾓﾝﾄﾞﾘｱﾝﾙｯｸ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 15000,
+        "speed": 58,
+        "stamina": 52,
+        "power": 53,
+        "dirt": "○",
+        "ancestors": [
+            "Giant's Causeway",
+            "Seattle Slew",
+            "Private Account",
+            "The Minstrel"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            9
+        ]
+    },
+    {
+        "name": "ﾕﾆﾎｯｸ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4000,
+        "speed": 38,
+        "stamina": 32,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ﾋｯﾃｨﾝｸﾞｱｳｪ－"
+        ],
+        "indices": [
+            4,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾗｰﾝ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 13000,
+        "speed": 52,
+        "stamina": 54,
+        "power": 50,
+        "dirt": "○",
+        "ancestors": [
+            "Tapit",
+            "El Prado",
+            "Cherokee Colony",
+            "Conquistador Cielo"
+        ],
+        "indices": [
+            3,
+            6,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾗｲﾄﾆﾝｸﾞﾏｸﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 8800,
+        "speed": 44,
+        "stamina": 50,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "ｻﾝﾀﾞｰｶﾞﾙﾁ",
+            "Baldski",
+            "Prince Taj",
+            "Royal Note"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ﾗｸﾞﾏｰﾘﾝ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 36000,
+        "speed": 76,
+        "stamina": 60,
+        "power": 67,
+        "dirt": "○",
+        "ancestors": [
+            "Tapit",
+            "Marlin",
+            "Fortunate Prospect",
+            "Argument"
+        ],
+        "indices": [
+            3,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾗｻﾝﾃｨ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 34000,
+        "speed": 74,
+        "stamina": 60,
+        "power": 65,
+        "dirt": "○",
+        "ancestors": [
+            "Lomitas",
+            "ﾀｲｶﾞｰﾋﾙ",
+            "Alkalde",
+            "Marduk"
+        ],
+        "indices": [
+            5,
+            11,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ﾗｼﾞｮｺﾝﾀﾞ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 8800,
+        "speed": 42,
+        "stamina": 52,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "Monsun",
+            "Salse",
+            "Mill Reef",
+            "Prince Ippi"
+        ],
+        "indices": [
+            10,
+            11,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾗﾀﾄｩｰﾕ",
+        "system": "ﾊﾟｰｿﾛﾝ",
+        "fee": 4000,
+        "speed": 34,
+        "stamina": 36,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "ﾄｳｶｲﾃｲｵｰ",
+            "ﾘｱﾙｼｬﾀﾞｲ",
+            "ﾀｰｺﾞﾜｲｽ",
+            "ｷﾝｸﾞｵﾌﾞﾀﾞｰﾋﾞｰ"
+        ],
+        "indices": [
+            15,
+            5,
+            4,
+            13
+        ]
+    },
+    {
+        "name": "ﾗﾌﾞｱﾀｯｸ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 11000,
+        "speed": 60,
+        "stamina": 42,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "ﾏｲﾈﾙﾗｳﾞ",
+            "ﾌﾞﾚｲｳﾞｪｽﾄﾛｰﾏﾝ",
+            "ﾊﾞｰﾊﾞｰ",
+            "ﾗｲｼﾞﾝｸﾞﾌﾚｰﾑ"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾗﾌﾗｸｽﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 36000,
+        "speed": 68,
+        "stamina": 68,
+        "power": 64,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "Seeking the Gold",
+            "Alzao",
+            "Busted"
+        ],
+        "indices": [
+            4,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾗﾌﾞﾗﾌﾞﾗﾌﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 8000,
+        "speed": 48,
+        "stamina": 42,
+        "power": 43,
+        "dirt": "○",
+        "ancestors": [
+            "ﾒｼﾞﾛﾗｲｱﾝ",
+            "Lomond",
+            "ﾊｰﾄﾞﾂｰﾋﾞｰﾄ",
+            "Fine Top"
+        ],
+        "indices": [
+            5,
+            13,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ﾘﾀｰﾝﾄｩｱﾒﾘｶ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 22000,
+        "speed": 66,
+        "stamina": 56,
+        "power": 59,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝｸﾞﾙﾋﾟｰﾙ",
+            "Efisio",
+            "Bay Express",
+            "Lorenzaccio"
+        ],
+        "indices": [
+            5,
+            4,
+            11,
+            14
+        ]
+    },
+    {
+        "name": "ﾘﾓｰﾄﾜｰｸ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 3600,
+        "speed": 40,
+        "stamina": 28,
+        "power": 34,
+        "dirt": "○",
+        "ancestors": [
+            "Gone West",
+            "Zilzal",
+            "Irish River",
+            "Nijinsky"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾘﾝｺｽﾃｨﾘｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 3600,
+        "speed": 38,
+        "stamina": 30,
+        "power": 33,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Cozzene",
+            "Lyphard",
+            "Gyr"
+        ],
+        "indices": [
+            4,
+            3,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾙﾙｰﾌﾞ",
+        "system": "ﾌﾞﾚﾆﾑ",
+        "fee": 7600,
+        "speed": 38,
+        "stamina": 50,
+        "power": 39,
+        "dirt": "○",
+        "ancestors": [
+            "Mtoto",
+            "Habitat",
+            "Kashmir",
+            "Prince Taj"
+        ],
+        "indices": [
+            10,
+            14,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾚｯﾄﾞｽﾄﾗｲｶｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 17000,
+        "speed": 62,
+        "stamina": 53,
+        "power": 56,
+        "dirt": "○",
+        "ancestors": [
+            "Unbridled's Song",
+            "Storm Cat",
+            "Phone Trick",
+            "Pass the Glass"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾚﾌﾟﾄﾘﾝｺｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5200,
+        "speed": 38,
+        "stamina": 38,
+        "power": 36,
+        "dirt": "◎",
+        "ancestors": [
+            "ﾛｯｸｵﾌﾞｼﾞﾌﾞﾗﾙﾀﾙ",
+            "ﾒｼﾞﾛﾏｯｸｲｰﾝ",
+            "ｶﾂﾗｷﾞｴｰｽ",
+            "ﾀﾞﾝｼﾝｸﾞｷｬｯﾌﾟ"
+        ],
+        "indices": [
+            5,
+            5,
+            15,
+            3
+        ]
+    },
+    {
+        "name": "ﾛｰｽﾞﾃｨﾝﾃｯﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 19000,
+        "speed": 64,
+        "stamina": 54,
+        "power": 57,
+        "dirt": "○",
+        "ancestors": [
+            "Unbridled's Song",
+            "Tiznow",
+            "Storm Cat",
+            "Fappiano"
+        ],
+        "indices": [
+            6,
+            3,
+            14,
+            5
+        ]
+    },
+    {
+        "name": "ﾛｰﾔﾙｾﾞﾘｰ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 3600,
+        "speed": 32,
+        "stamina": 36,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ﾊﾞｺﾞ",
+            "ﾊﾟﾗﾀﾞｲｽｸﾘｰｸ",
+            "ﾗｼｱﾝﾙｰﾌﾞﾙ",
+            "ﾊｰﾄﾞﾂｰﾋﾞｰﾄ"
+        ],
+        "indices": [
+            3,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾛｽﾞｳｪﾙﾘﾎﾟｰﾄ",
+        "system": "ﾋﾑﾔｰ",
+        "fee": 3300,
+        "speed": 38,
+        "stamina": 28,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "Flashy Bull",
+            "Indian Charlie",
+            "Upper Nile",
+            "Court Recess"
+        ],
+        "indices": [
+            12,
+            3,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾛﾏﾝｽﾅｲﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 5600,
+        "speed": 42,
+        "stamina": 36,
+        "power": 38,
+        "dirt": "○",
+        "ancestors": [
+            "High Chaparral",
+            "Sinndar",
+            "The Minstrel",
+            "Nashua"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾛﾏﾝｽﾉｶﾁ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 5800,
+        "speed": 34,
+        "stamina": 45,
+        "power": 35,
+        "dirt": "○",
+        "ancestors": [
+            "Fusaichi Pegasus",
+            "Holy Bull",
+            "Relaunch",
+            "Sliver Series"
+        ],
+        "indices": [
+            6,
+            5,
+            12,
+            14
+        ]
+    },
+    {
+        "name": "ﾜｲﾙﾄﾞｽﾄﾛﾍﾞﾘｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 3300,
+        "speed": 36,
+        "stamina": 30,
+        "power": 32,
+        "dirt": "○",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Always Run Lucky",
+            "Irish River"
+        ],
+        "indices": [
+            4,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾜｲﾝｴﾁｹｯﾄ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 24000,
+        "speed": 68,
+        "stamina": 56,
+        "power": 60,
+        "dirt": "○",
+        "ancestors": [
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ｳﾞｪﾝﾁｱ",
+            "ｹﾞｲﾀｲﾑ"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            14
+        ]
+    },
+    {
+        "name": "ﾜｶﾋﾙﾒ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 3000,
+        "speed": 30,
+        "stamina": 34,
+        "power": 29,
+        "dirt": "○",
+        "ancestors": [
+            "Purge",
+            "Roanoke",
+            "Dixieland Band",
+            "Promised Land"
+        ],
+        "indices": [
+            3,
+            8,
+            13,
+            5
+        ]
+    },
+    {
+        "name": "ﾜｶﾚﾉｳﾀ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 24000,
+        "speed": 60,
+        "stamina": 64,
+        "power": 58,
+        "dirt": "○",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾜﾙｹﾘｱ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 3300,
+        "speed": 34,
+        "stamina": 32,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ｴﾘｼｵ",
+            "Danzig",
+            "Creme Dela Creme",
+            "The Dogs"
+        ],
+        "indices": [
+            5,
+            3,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾜﾝﾀｲﾑﾒﾓﾘｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10000,
+        "speed": 62,
+        "stamina": 38,
+        "power": 51,
+        "dirt": "○",
+        "ancestors": [
+            "Souvenir Copy",
+            "Alleged",
+            "Seattle Slew",
+            "Northern Dancer"
+        ],
+        "indices": [
+            6,
+            5,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ﾜﾝﾌﾟﾗｽﾜﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 3300,
+        "speed": 32,
+        "stamina": 34,
+        "power": 31,
+        "dirt": "○",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾃﾞｼﾞﾀﾙ",
+            "ﾌｼﾞｷｾｷ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "ﾊﾟｰｿﾛﾝ"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ｸｼｽﾀ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 28150,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ｸﾛﾌﾈ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Mr. Prospector",
+            "Francis S."
+        ],
+        "indices": [
+            5,
+            7,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ｵｰﾄﾐｸｼｽ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 24750,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Danzig",
+            "Briartic"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｻﾞﾓｰﾒﾝﾄｵﾌﾞﾕｱﾗｳﾞ",
+        "system": "ﾍｲﾄｩﾘｰｽﾞﾝ",
+        "fee": 70000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Galileo",
+            "Intikhab",
+            "Nordico",
+            "Martinmas"
+        ],
+        "indices": [
+            5,
+            6,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ｼﾞｮｱﾆﾅ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 70000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Shirocco",
+            "ﾄﾞｸﾀｰﾃﾞｳﾞｨｱｽ",
+            "Be My Guest",
+            "Darshaan"
+        ],
+        "indices": [
+            10,
+            5,
+            15,
+            5
+        ]
+    },
+    {
+        "name": "ﾍﾟｯﾂｧｰﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 22580,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Topsider",
+            "Star de Naskra"
+        ],
+        "indices": [
+            6,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾐﾝﾅﾈｺﾆﾅｰﾙ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 22000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾊｰﾄﾞｽﾊﾟﾝ",
+            "Kris S.",
+            "Mr. Prospector",
+            "Third Martini"
+        ],
+        "indices": [
+            5,
+            6,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ﾎｰﾘｰﾙﾍﾞﾙ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 22000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Harlan's Holiday",
+            "Saint Ballado",
+            "Gone West",
+            "The Minstrel"
+        ],
+        "indices": [
+            5,
+            6,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ﾎﾟﾝﾌﾟﾙﾑｰｽ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 22000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "More Than Ready",
+            "Miswaki",
+            "Wavering Monarch",
+            "In Reality"
+        ],
+        "indices": [
+            4,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "name": "ｶﾜｰｲﾅﾔ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 32750,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾃﾞｲﾝﾋﾙ",
+            "Sagace",
+            "Hagley",
+            "ｽﾞｸﾛ"
+        ],
+        "indices": [
+            5,
+            13,
+            15,
+            14
+        ]
+    },
+    {
+        "name": "ｻﾝﾎﾟﾐﾁ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 15000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Doyen",
+            "Big Shuffle",
+            "ｼｬｰﾃﾞｨｰ",
+            "Prince Ippi"
+        ],
+        "indices": [
+            5,
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾋｭﾌﾟｼｭ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 20000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾛｰｼﾞｽﾞｲﾝﾒｲ",
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "Zabeel",
+            "Mill Reef"
+        ],
+        "indices": [
+            4,
+            13,
+            4,
+            4
+        ]
+    },
+    {
+        "name": "ｺﾝﾄﾞﾘｭｰﾙ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 40000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Raven's Pass",
+            "Bahri",
+            "Kris",
+            "ｱｰﾃｲｱｽ"
+        ],
+        "indices": [
+            6,
+            7,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ｸﾞｳﾞｨﾈｳﾞｨｱ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 30000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Storm Cat",
+            "Honour and Glory",
+            "Majestic Prince",
+            "Fleet Nasrullah"
+        ],
+        "indices": [
+            5,
+            3,
+            14,
+            6
+        ]
+    },
+    {
+        "name": "ｲﾁﾒﾝﾉﾅﾉﾊﾅ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 19000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Flower Alley",
+            "Seattle Slew",
+            "Alydar",
+            "Gallant Romeo"
+        ],
+        "indices": [
+            6,
+            6,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ﾙﾅｼｬｲﾝ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 18000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Nayef",
+            "Storm Bird",
+            "Sassafras",
+            "Red God"
+        ],
+        "indices": [
+            6,
+            10,
+            5,
+            14
+        ]
+    },
+    {
+        "name": "ﾂｲﾝｺｰﾗｽ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 31000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Songandaprayer",
+            "Cat Thief",
+            "Star de Naskra",
+            "Whitesburg"
+        ],
+        "indices": [
+            6,
+            6,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾐｰﾗﾔ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 38450,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Choisir",
+            "Piccolo",
+            "Runnett",
+            "Relko"
+        ],
+        "indices": [
+            5,
+            8,
+            14,
+            11
+        ]
+    },
+    {
+        "name": "ｼﾘｱﾙﾎｰﾙﾄﾞ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 24000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Soldier Hollow",
+            "Highest Honor",
+            "Alkalde",
+            "Marduk"
+        ],
+        "indices": [
+            5,
+            6,
+            3,
+            10
+        ]
+    },
+    {
+        "name": "ｶﾝﾏﾝﾎﾞﾛﾝ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 40750,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Dubawi",
+            "Caerleon",
+            "Ela-Mana-Mou",
+            "Mill Reef"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "ﾏｰﾚｱﾓｰﾚ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 17000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Acatenango",
+            "Bering",
+            "Tennyson"
+        ],
+        "indices": [
+            4,
+            5,
+            11,
+            6
+        ]
+    },
+    {
+        "name": "ｶｰﾝﾀﾞｯｶｰ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 26000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾊｰﾂｸﾗｲ",
+            "Kris",
+            "ﾉﾉｱﾙｺ",
+            "ﾎﾟﾘｯｸ"
+        ],
+        "indices": [
+            4,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾌﾞﾙｰﾌｨｰﾙ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 20370,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+            "Sharpo",
+            "Known Fact",
+            "ｿｰﾌﾞﾚｽﾄﾞ"
+        ],
+        "indices": [
+            4,
+            5,
+            6,
+            14
+        ]
+    },
+    {
+        "name": "ｴﾘﾁｪ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 22300,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Galileo",
+            "Indian Ridge",
+            "Bluebird",
+            "Thatching"
+        ],
+        "indices": [
+            5,
+            6,
+            15,
+            5
+        ]
+    },
+    {
+        "name": "ﾏｲﾘﾄﾙﾌｧｲｱ",
+        "system": "ﾅｽﾙｰﾗ",
+        "fee": 19220,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Not For Sale",
+            "Ski Champ",
+            "Ghadeer",
+            "Janus"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "ﾜﾝﾓｱﾗｳﾞ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 26000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Dansili",
+            "Diesis",
+            "Alzao",
+            "Darius"
+        ],
+        "indices": [
+            5,
+            5,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｵｰｸｼｮﾝﾚｺｰﾄﾞ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 18000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Belong to Me",
+            "Valid Appeal",
+            "Bold Bidder",
+            "Hangover"
+        ],
+        "indices": [
+            5,
+            6,
+            14,
+            3
+        ]
+    },
+    {
+        "name": "ﾕﾆﾊﾞｰｽｶｲ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 17000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Fusaichi Pegasus",
+            "Buena Shore",
+            "Newtown Wonder",
+            "Pherozshah"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            7
+        ]
+    },
+    {
+        "name": "ﾉｰﾌﾞﾙｳｪｲ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 28000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Harlington",
+            "Silver Deputy",
+            "Bold Ruckus",
+            "Geiger Counter"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾎﾜｲﾄﾋﾞﾝｼﾞｬｰ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 15000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "ﾊｰﾋﾞﾝｼﾞｬｰ",
+            "ｸﾛﾌﾈ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Topsider"
+        ],
+        "indices": [
+            5,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｸﾞﾗｼｰﾆｬ",
+        "system": "ﾅｽﾙｰﾗ",
+        "fee": 26350,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Le Havre",
+            "Mark of Esteem",
+            "Machiavellian",
+            "ｿｳﾞｨｴﾄｽﾀｰ"
+        ],
+        "indices": [
+            3,
+            10,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ｱﾏﾘﾝ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 19000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Motivator",
+            "Shirley Heights",
+            "Be My Guest",
+            "Lorenzaccio"
+        ],
+        "indices": [
+            5,
+            6,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾄｩｱﾗﾀ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 55000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Distorted Humor",
+            "Seattle Slew",
+            "Damascus",
+            "Northern Dancer"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            9
+        ]
+    },
+    {
+        "name": "ｼｰｹﾝｼｬﾙｶﾞｰﾙ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 70000,
+        "speed": 0,
+        "stamina": 0,
+        "power": 0,
+        "dirt": "?",
+        "ancestors": [
+            "Galileo",
+            "Lear Fan",
+            "Lomond",
+            "Silly Season"
+        ],
+        "indices": [
+            5,
+            6,
+            4,
+            5
+        ]
+    }
+]

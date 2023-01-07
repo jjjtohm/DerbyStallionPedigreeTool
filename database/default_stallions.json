@@ -1,0 +1,6422 @@
+[
+    {
+        "name": "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 4000,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            4,
+            10,
+            7
+        ]
+    },
+    {
+        "name": "ﾛｰﾄﾞｶﾅﾛｱ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 2000,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Storm Cat",
+            "Cormorant",
+            "In Reality"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            5,
+            3,
+            13,
+            14
+        ]
+    },
+    {
+        "name": "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 1200,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Kingmambo",
+            "ﾗｽﾄﾀｲｸｰﾝ",
+            "Blakeney",
+            "Green Dancer"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            13,
+            5,
+            3,
+            15,
+            5
+        ]
+    },
+    {
+        "name": "ﾊｰﾂｸﾗｲ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 1000,
+        "min": 1800,
+        "max": 3000,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Lyphard",
+            "Bupers"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            3,
+            11,
+            5,
+            12
+        ]
+    },
+    {
+        "name": "ｷｽﾞﾅ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 1000,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Storm Cat",
+            "Damascus",
+            "Acropolis"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            5,
+            3,
+            9,
+            10
+        ]
+    },
+    {
+        "name": "ｽｸﾘｰﾝﾋｰﾛｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 600,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｸﾞﾗｽﾜﾝﾀﾞｰ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ﾓﾃﾞﾙﾌｰﾙ"
+        ],
+        "indices": [
+            4,
+            2,
+            5,
+            13,
+            4,
+            9,
+            5,
+            8
+        ]
+    },
+    {
+        "name": "ｽﾃｲｺﾞｰﾙﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 600,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "C",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾃﾞｨｸﾀｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Princely Gift"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            11,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾀﾞｲﾜﾒｼﾞｬｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 600,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crimson Satan",
+            "Beau Max"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            9,
+            12,
+            9
+        ]
+    },
+    {
+        "name": "ﾊｰﾋﾞﾝｼﾞｬｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 600,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Dansili",
+            "Bering",
+            "Shareef Dancer",
+            "Connaught"
+        ],
+        "indices": [
+            5,
+            13,
+            5,
+            11,
+            6,
+            5,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾙｰﾗｰｼｯﾌﾟ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 400,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            3,
+            11,
+            5,
+            1
+        ]
+    },
+    {
+        "name": "ｴﾋﾟﾌｧﾈｲｱ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 1000,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "C",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Sadler's Wells",
+            "Habitat"
+        ],
+        "indices": [
+            4,
+            13,
+            3,
+            8,
+            4,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｽﾄﾘｰﾄｾﾝｽ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 450,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Street Cry",
+            "Dixieland Band",
+            "His Majesty",
+            "Reviewer"
+        ],
+        "indices": [
+            6,
+            4,
+            7,
+            3,
+            5,
+            11,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ｼﾞｬｽﾀｳｪｲ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 400,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾊｰﾂｸﾗｲ",
+            "Wild Again",
+            "Mo Exception",
+            "Sir Wiggle"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            5,
+            5,
+            11,
+            11,
+            11
+        ]
+    },
+    {
+        "name": "ﾊｰﾄﾞｽﾊﾟﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 400,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Danzig",
+            "Turkoman",
+            "Roberto",
+            "My Babu"
+        ],
+        "indices": [
+            5,
+            6,
+            9,
+            7,
+            6,
+            13,
+            4,
+            15
+        ]
+    },
+    {
+        "name": "ﾍﾆｰﾋｭｰｽﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 500,
+        "min": 1000,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾍﾈｼｰ",
+            "Meadowlake",
+            "Hagley",
+            "Harvest Singing"
+        ],
+        "indices": [
+            5,
+            3,
+            2,
+            8,
+            13,
+            6,
+            14,
+            3
+        ]
+    },
+    {
+        "name": "ｴﾝﾊﾟｲｱﾒｰｶｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 350,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Unbridled",
+            "El Gran Senor",
+            "In Reality",
+            "Cornish Prince"
+        ],
+        "indices": [
+            6,
+            12,
+            13,
+            14,
+            5,
+            8,
+            14,
+            3
+        ]
+    },
+    {
+        "name": "ﾏﾝﾊｯﾀﾝｶﾌｪ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 350,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Law Society",
+            "Luciano",
+            "Ticino"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            13,
+            3,
+            11,
+            1
+        ]
+    },
+    {
+        "name": "ｵﾙﾌｪｰｳﾞﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 350,
+        "min": 2000,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "ｽﾃｲｺﾞｰﾙﾄﾞ",
+            "ﾒｼﾞﾛﾏｯｸｲｰﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Lt. Stevens"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5,
+            15,
+            10,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｺﾞｰﾙﾄﾞｱﾘｭｰﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 300,
+        "min": 1400,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nureyev",
+            "Hostage",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            11,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｺﾞｰﾙﾄﾞｼｯﾌﾟ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 200,
+        "min": 2000,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｽﾃｲｺﾞｰﾙﾄﾞ",
+            "ﾒｼﾞﾛﾏｯｸｲｰﾝ",
+            "ﾌﾟﾙﾗﾘｽﾞﾑ",
+            "ﾄﾗｲﾊﾞﾙﾁｰﾌ"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5,
+            15,
+            10,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｱｲﾙﾊｳﾞｱﾅｻﾞｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 250,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Flower Alley",
+            "Arch",
+            "Pleasant Tap",
+            "Caucasus"
+        ],
+        "indices": [
+            6,
+            5,
+            6,
+            5,
+            4,
+            5,
+            13,
+            5
+        ]
+    },
+    {
+        "name": "ｷﾝｼｬｻﾉｷｾｷ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 250,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "Pleasant Colony",
+            "Lyphard",
+            "Violon d'Ingres"
+        ],
+        "indices": [
+            4,
+            9,
+            13,
+            14,
+            13,
+            12,
+            5,
+            15
+        ]
+    },
+    {
+        "name": "ﾊﾟｲﾛ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 250,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Pulpit",
+            "Wild Again",
+            "pass the tab",
+            "Whitesburg"
+        ],
+        "indices": [
+            3,
+            3,
+            6,
+            3,
+            5,
+            11,
+            10,
+            12
+        ]
+    },
+    {
+        "name": "ﾜｰｸﾌｫｰｽ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 250,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "A",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｷﾝｸﾞｽﾞﾍﾞｽﾄ",
+            "Sadler's Wells",
+            "Alleged",
+            "Star Appeal"
+        ],
+        "indices": [
+            6,
+            5,
+            9,
+            10,
+            5,
+            4,
+            13,
+            11
+        ]
+    },
+    {
+        "name": "ｸﾛﾌﾈ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 200,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "Classic Go Go",
+            "Icecapade",
+            "Roberto"
+        ],
+        "indices": [
+            5,
+            14,
+            13,
+            3,
+            7,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｻｳｽｳﾞｨｸﾞﾗｽ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 200,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "Star de Naskra",
+            "Cornish Prince",
+            "War Admiral"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            1,
+            3,
+            12,
+            3,
+            14
+        ]
+    },
+    {
+        "name": "ｼﾆｽﾀｰﾐﾆｽﾀｰ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 250,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Old Trieste",
+            "The Prime Minister",
+            "Hurry Up Blue",
+            "Mr. Prospector"
+        ],
+        "indices": [
+            3,
+            3,
+            11,
+            15,
+            5,
+            13,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ﾌﾞﾗｯｸﾀｲﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 200,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            4,
+            10,
+            7
+        ]
+    },
+    {
+        "name": "ﾘｱﾙｲﾝﾊﾟｸﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 150,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Meadowlake",
+            "In Reality",
+            "Crozier"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            13,
+            6,
+            14,
+            15
+        ]
+    },
+    {
+        "name": "ﾏｼﾞｪｽﾃｨｯｸｳｫﾘｱｰ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 180,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "A.P. Indy",
+            "Seeking the Gold",
+            "Dixieland Band",
+            "Secretariat"
+        ],
+        "indices": [
+            3,
+            13,
+            3,
+            8,
+            6,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾖﾊﾈｽﾌﾞﾙｸﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 180,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾍﾈｼｰ",
+            "ｵｼﾞｼﾞｱﾝ",
+            "Mr. Prospector",
+            "Honest Pleasure"
+        ],
+        "indices": [
+            5,
+            3,
+            2,
+            8,
+            9,
+            4,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｳﾞｨｸﾄﾜｰﾙﾋﾟｻ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 150,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ﾈｵﾕﾆｳﾞｧｰｽ",
+            "Machiavellian",
+            "Bustino",
+            "Lorenzaccio"
+        ],
+        "indices": [
+            4,
+            9,
+            6,
+            13,
+            6,
+            4,
+            10,
+            15
+        ]
+    },
+    {
+        "name": "ﾉｳﾞｪﾘｽﾄ",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 150,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "ﾓﾝｽﾞｰﾝ",
+            "Lagunas",
+            "Night Shift",
+            "Nebos"
+        ],
+        "indices": [
+            10,
+            15,
+            11,
+            11,
+            5,
+            11,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾀﾞﾝｶｰｸ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 120,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "Unbridled's Song",
+            "A.P. Indy",
+            "Alydar",
+            "Con Brio"
+        ],
+        "indices": [
+            6,
+            13,
+            3,
+            11,
+            3,
+            3,
+            6,
+            13
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾏｲﾔﾑｰﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 100,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Kris",
+            "ﾉﾉｱﾙｺ"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            1,
+            4,
+            9,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｴｽｹﾝﾃﾞﾚﾔ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 100,
+        "min": 1600,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ｼﾞｬｲｱﾝﾂｺｰｽﾞｳｪｲ",
+            "Seattle Slew",
+            "Alydar",
+            "Northern Dancer"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            4,
+            3,
+            13,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｴｽﾎﾟﾜｰﾙｼﾁｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 120,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ｺﾞｰﾙﾄﾞｱﾘｭｰﾙ",
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ﾌﾞﾚｲｳﾞｪｽﾄﾛｰﾏﾝ",
+            "ﾄﾗﾌｨｯｸ"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            5,
+            4,
+            13,
+            3,
+            11
+        ]
+    },
+    {
+        "name": "ｷﾝｸﾞｽﾞﾍﾞｽﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 100,
+        "min": 2000,
+        "max": 2800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Kingmambo",
+            "Lombard",
+            "Espresso",
+            "Birkhahn"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            13,
+            9,
+            13,
+            10,
+            11
+        ]
+    },
+    {
+        "name": "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 100,
+        "min": 1600,
+        "max": 2600,
+        "dirt": "◎",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Kris S.",
+            "Gold Meridian",
+            "Tri Jet",
+            "Francis S."
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            9,
+            3,
+            12,
+            8,
+            4
+        ]
+    },
+    {
+        "name": "ｽｽﾞｶﾏﾝﾎﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 100,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Kingmambo",
+            "Nijinsky",
+            "Key to the Mint"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            6,
+            5,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ｽﾍﾟｼｬﾙｳｨｰｸ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 100,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ｾﾝﾄｸﾚｽﾋﾟﾝ",
+            "ﾋﾝﾄﾞｽﾀﾝ"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            8,
+            11,
+            13
+        ]
+    },
+    {
+        "name": "ﾀｰﾄﾙﾎﾞｳﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 100,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Dyhim Diamond",
+            "ﾄｯﾌﾟｳﾞｨﾙ",
+            "Kalamoun",
+            "ｳﾞｪﾝﾁｱ"
+        ],
+        "indices": [
+            5,
+            9,
+            4,
+            3,
+            2,
+            13,
+            3,
+            14
+        ]
+    },
+    {
+        "name": "ﾀﾞﾉﾝﾊﾞﾗｰﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 150,
+        "min": 1800,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Unbridled",
+            "Halo",
+            "Herbager"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            6,
+            13,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 100,
+        "min": 1800,
+        "max": 3000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nijinsky",
+            "Key to the Mint",
+            "Raise a Native"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            9,
+            13,
+            6
+        ]
+    },
+    {
+        "name": "ﾌﾘｵｰｿ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 100,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "Mr. Prospector",
+            "Nureyev",
+            "Riverman"
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            9,
+            6,
+            3,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｴｲｼﾝﾌﾗｯｼｭ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 80,
+        "min": 1800,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｽﾞﾍﾞｽﾄ",
+            "ﾌﾟﾗﾃｨﾆ",
+            "Sure Blade",
+            "Konigsstuhl"
+        ],
+        "indices": [
+            6,
+            5,
+            9,
+            10,
+            11,
+            3,
+            6,
+            10
+        ]
+    },
+    {
+        "name": "ｶｼﾞﾉﾄﾞﾗｲｳﾞ",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 80,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Mineshaft",
+            "Deputy Minister",
+            "Blushing Groom",
+            "Traffic Judge"
+        ],
+        "indices": [
+            3,
+            3,
+            6,
+            13,
+            5,
+            14,
+            3,
+            11
+        ]
+    },
+    {
+        "name": "ｹｰﾌﾟﾌﾞﾗﾝｺ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 80,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "Galileo",
+            "Presidium",
+            "ｱｰﾃｲｱｽ",
+            "Petingo"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            9,
+            3,
+            9,
+            13,
+            7
+        ]
+    },
+    {
+        "name": "ｽｳｪﾌﾟﾄｵｰｳﾞｧｰﾎﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 80,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "Cutlass",
+            "Ambehaving",
+            "Native Charger"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            1,
+            9,
+            7,
+            15,
+            6
+        ]
+    },
+    {
+        "name": "ｽﾄﾛﾝｸﾞﾘﾀｰﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 80,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "Smart Strike",
+            "Nijinsky",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            4,
+            13,
+            3,
+            8,
+            6,
+            4,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾃﾞｨｰﾌﾟﾌﾞﾘﾗﾝﾃ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 80,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Loup Sauvage",
+            "Akarad",
+            "Miswaki"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            3,
+            5,
+            10,
+            6
+        ]
+    },
+    {
+        "name": "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 80,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "C",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Deputy Minister",
+            "Hold Your Peace",
+            "Bold Ruler",
+            "Ambiorix"
+        ],
+        "indices": [
+            5,
+            7,
+            14,
+            12,
+            13,
+            1,
+            3,
+            15
+        ]
+    },
+    {
+        "name": "ﾎﾜｲﾄﾏｽﾞﾙ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 80,
+        "min": 1200,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "Ela-Mana-Mou",
+            "Tyrant",
+            "Round Table"
+        ],
+        "indices": [
+            5,
+            7,
+            4,
+            7,
+            7,
+            11,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｶﾚﾝﾌﾞﾗｯｸﾋﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 70,
+        "min": 1600,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ﾀﾞｲﾜﾒｼﾞｬｰ",
+            "Grindstone",
+            "Storm Cat",
+            "Great Nephew"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            12,
+            6,
+            4,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "ｸﾞﾗﾝﾌﾟﾘﾎﾞｽ",
+        "system": "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+        "fee": 70,
+        "min": 1400,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Secretariat",
+            "Nervous Energy"
+        ],
+        "indices": [
+            3,
+            3,
+            5,
+            15,
+            4,
+            9,
+            3,
+            9
+        ]
+    },
+    {
+        "name": "ｺﾝﾃﾞｭｲｯﾄ",
+        "system": "ﾈｳﾞｧｰﾍﾞﾝﾄﾞ",
+        "fee": 70,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾀﾞﾗｶﾆ",
+            "Sadler's Wells",
+            "Irish River",
+            "ﾀﾞﾝｻｰｽﾞｲﾒｰｼﾞ"
+        ],
+        "indices": [
+            3,
+            15,
+            6,
+            3,
+            5,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "ﾜｰﾙﾄﾞｴｰｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 70,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Acatenango",
+            "Be My Guest",
+            "Elektrant"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            11,
+            10,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ﾜｲﾙﾄﾞﾗｯｼｭ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 70,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Wild Again",
+            "Plugged Nickle",
+            "Drone",
+            "Etonian"
+        ],
+        "indices": [
+            5,
+            6,
+            11,
+            2,
+            13,
+            8,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ｶﾈﾋｷﾘ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 60,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "Deputy Minister",
+            "Mr. Prospector",
+            "Road at Sea"
+        ],
+        "indices": [
+            4,
+            9,
+            13,
+            14,
+            5,
+            14,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｽｽﾞｶｺｰｽﾞｳｪｲ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 60,
+        "min": 1400,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｼﾞｬｲｱﾝﾂｺｰｽﾞｳｪｲ",
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "Seattle Slew",
+            "ﾏﾅｰﾄﾞ"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            4,
+            5,
+            13,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ﾈｵﾕﾆｳﾞｧｰｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 60,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Kris",
+            "Shantung",
+            "Pall Mall"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            6,
+            9,
+            13,
+            7
+        ]
+    },
+    {
+        "name": "ﾒｲｼｮｳﾎﾞｰﾗｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 60,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾀｲｷｼｬﾄﾙ",
+            "Storm Cat",
+            "Search Tradition",
+            "Kazan"
+        ],
+        "indices": [
+            4,
+            11,
+            5,
+            11,
+            5,
+            3,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｱｸﾞﾈｽﾃﾞｼﾞﾀﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 60,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Crafty Prospector",
+            "Chief's Crown",
+            "Alleged",
+            "Wild Risk"
+        ],
+        "indices": [
+            6,
+            3,
+            14,
+            12,
+            5,
+            3,
+            13,
+            13
+        ]
+    },
+    {
+        "name": "ｳﾞｧｰﾐﾘｱﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｴﾙｺﾝﾄﾞﾙﾊﾟｻｰ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crimson Satan"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            3,
+            4,
+            9,
+            5,
+            12
+        ]
+    },
+    {
+        "name": "ｸﾞﾗｽﾜﾝﾀﾞｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "Silver Hawk",
+            "Danzig",
+            "His Majesty",
+            "Raise a Native"
+        ],
+        "indices": [
+            4,
+            3,
+            2,
+            13,
+            5,
+            9,
+            13,
+            6
+        ]
+    },
+    {
+        "name": "ｽﾋﾟﾙﾊﾞｰｸﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "晩成",
+        "health": "C",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Lycius",
+            "Sadler's Wells",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            6,
+            5,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｽﾏｰﾄﾌｧﾙｺﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｺﾞｰﾙﾄﾞｱﾘｭｰﾙ",
+            "ﾐｼｼｯﾋﾟｱﾝ",
+            "ｸﾗｳﾝﾄﾞﾌﾟﾘﾝｽ",
+            "ｼﾙﾊﾞｰｼｬｰｸ"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            5,
+            11,
+            11,
+            6,
+            14
+        ]
+    },
+    {
+        "name": "ｾﾞﾝﾉﾛﾌﾞﾛｲ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾏｲﾆﾝｸﾞ",
+            "Clever Trick",
+            "Pia Star"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            6,
+            8,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾀｲｷｼｬﾄﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Devil's Bag",
+            "Caerleon",
+            "Thatch",
+            "Roan Rocket"
+        ],
+        "indices": [
+            4,
+            2,
+            11,
+            10,
+            5,
+            13,
+            11,
+            14
+        ]
+    },
+    {
+        "name": "ﾀﾞﾉﾝｼｬﾝﾃｨ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "C",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "Mark of Esteem",
+            "Halo",
+            "Herbager"
+        ],
+        "indices": [
+            4,
+            9,
+            13,
+            14,
+            3,
+            5,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾄｰｾﾝｼﾞｮｰﾀﾞﾝ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 50,
+        "min": 2000,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｼﾞｬﾝｸﾞﾙﾎﾟｹｯﾄ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crafty Prospector",
+            "Secretariat"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            11,
+            5,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ﾄｰｾﾝﾎﾏﾚﾎﾞｼ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 2000,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crafty Prospector",
+            "Secretariat"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            5,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ﾄｰｾﾝﾗｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Lycius",
+            "Sadler's Wells",
+            "Vaguely Noble"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            6,
+            5,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾄﾗﾝｾﾝﾄﾞ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 50,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾜｲﾙﾄﾞﾗｯｼｭ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ｽﾘﾙｼｮｰ",
+            "Hawaii"
+        ],
+        "indices": [
+            5,
+            11,
+            13,
+            4,
+            3,
+            11,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "ﾄﾞﾘｰﾑｼﾞｬｰﾆｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 2000,
+        "max": 3000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ｽﾃｲｺﾞｰﾙﾄﾞ",
+            "ﾒｼﾞﾛﾏｯｸｲｰﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Lt. Stevens"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5,
+            15,
+            10,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾊﾞｺﾞ",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 100,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "Nashwan",
+            "Nureyev",
+            "Mr. Prospector",
+            "Halo"
+        ],
+        "indices": [
+            3,
+            13,
+            10,
+            7,
+            5,
+            11,
+            6,
+            4
+        ]
+    },
+    {
+        "name": "ﾌｪﾉｰﾒﾉ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 2000,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｽﾃｲｺﾞｰﾙﾄﾞ",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Averof",
+            "Major Portion"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5,
+            5,
+            13,
+            11,
+            7
+        ]
+    },
+    {
+        "name": "ﾌﾟﾘｻｲｽｴﾝﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 50,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ｴﾝﾄﾞｽｳｨｰﾌﾟ",
+            "Summing",
+            "Cold Reception",
+            "Grey Dawn"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            1,
+            13,
+            3,
+            3,
+            11
+        ]
+    },
+    {
+        "name": "ﾍﾞﾙｼｬｻﾞｰﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 50,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "C",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ｾｸﾚﾄ",
+            "Faraway Son"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            9,
+            5,
+            15
+        ]
+    },
+    {
+        "name": "ﾏﾂﾘﾀﾞｺﾞｯﾎ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2200,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Bel Bolide",
+            "Affirmed",
+            "Never Bend"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            3,
+            13,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ﾒｲｼｮｳｻﾑｿﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｵﾍﾟﾗﾊｳｽ",
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "ｻﾝﾌﾟﾘﾝｽ",
+            "ﾌｫﾙﾃｨﾉ"
+        ],
+        "indices": [
+            5,
+            4,
+            2,
+            15,
+            5,
+            4,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ﾓﾝﾃﾛｯｿ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 50,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Dubawi",
+            "Barathea",
+            "Salieri",
+            "Loosen Up"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            5,
+            5,
+            4,
+            9,
+            3
+        ]
+    },
+    {
+        "name": "ﾘｰﾁｻﾞｸﾗｳﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "C",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Seattle Slew",
+            "Mr. Prospector",
+            "Secretariat"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            11,
+            3,
+            13,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ﾛｰｴﾝｸﾞﾘﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 50,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ｼﾝｸﾞｽﾋﾟｰﾙ",
+            "Garde Royale",
+            "Carvin",
+            "Tyrant"
+        ],
+        "indices": [
+            5,
+            3,
+            4,
+            11,
+            3,
+            13,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ﾛｰｼﾞｽﾞｲﾝﾒｲ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Devil His Due",
+            "Speak John",
+            "Clandestine",
+            "Royal Gem"
+        ],
+        "indices": [
+            4,
+            11,
+            6,
+            12,
+            13,
+            15,
+            12,
+            11
+        ]
+    },
+    {
+        "name": "ﾛｰｽﾞｷﾝｸﾞﾀﾞﾑ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Shirley Heights",
+            "Lyphard"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            9,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾛｼﾞﾕﾆｳﾞｧｰｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 50,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ﾈｵﾕﾆｳﾞｧｰｽ",
+            "Cape Cross",
+            "Machiavellian",
+            "Nureyev"
+        ],
+        "indices": [
+            4,
+            9,
+            6,
+            13,
+            5,
+            15,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｴｲｼﾝｱﾎﾟﾛﾝ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 40,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ｼﾞｬｲｱﾝﾂｺｰｽﾞｳｪｲ",
+            "Sadler's Wells",
+            "Lyphard",
+            "Irish River"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            4,
+            5,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｼｮｳﾅﾝｶﾝﾌﾟ",
+        "system": "ﾌﾟﾘﾝｽﾘｰｷﾞﾌﾄ",
+        "fee": 40,
+        "min": 1000,
+        "max": 1600,
+        "dirt": "△",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "ﾗｯｷｰｿﾌﾞﾘﾝ",
+            "ﾀｹｼﾊﾞｵｰ",
+            "ﾍﾞﾝﾏｰｼｬﾙ"
+        ],
+        "indices": [
+            3,
+            3,
+            5,
+            15,
+            5,
+            2,
+            11,
+            7
+        ]
+    },
+    {
+        "name": "ｱｰﾈｽﾄﾘｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｸﾞﾗｽﾜﾝﾀﾞｰ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｴﾙｾﾝﾀｳﾛ"
+        ],
+        "indices": [
+            4,
+            2,
+            5,
+            13,
+            3,
+            11,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "ｱｻｸｻｷﾝｸﾞｽ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30,
+        "min": 2400,
+        "max": 3000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾎﾜｲﾄﾏｽﾞﾙ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "What Luck",
+            "Tentam"
+        ],
+        "indices": [
+            5,
+            4,
+            7,
+            3,
+            4,
+            9,
+            3,
+            14
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾏｲﾔｺｼﾞｰﾝ",
+        "system": "ﾌｫﾙﾃｨﾉ",
+        "fee": 30,
+        "min": 1000,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "Cozzene",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ﾄﾗｲﾊﾞﾙﾁｰﾌ",
+            "Darling Boy"
+        ],
+        "indices": [
+            3,
+            14,
+            13,
+            4,
+            5,
+            9,
+            3,
+            2
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾏｲﾔﾏｯｸｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ﾋｯﾃｨﾝｸﾞｱｳｪｰ",
+            "Determine"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            9,
+            15,
+            11
+        ]
+    },
+    {
+        "name": "ｱﾝﾗｲﾊﾞﾙﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾈｵﾕﾆｳﾞｧｰｽ",
+            "Sadler's Wells",
+            "ｲﾝｸﾞﾘｯｼｭﾌﾟﾘﾝｽ",
+            "Val de Loir"
+        ],
+        "indices": [
+            4,
+            9,
+            6,
+            13,
+            5,
+            4,
+            7,
+            10
+        ]
+    },
+    {
+        "name": "ｳﾞｧﾝｾﾝﾇ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾆﾎﾝﾋﾟﾛｳｲﾅｰ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Dike"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            4,
+            11,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｳｲﾝﾊﾞﾘｱｼｵﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 2000,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "C",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾊｰﾂｸﾗｲ",
+            "Storm Bird",
+            "Time for a Change",
+            "Dancing Count"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            5,
+            5,
+            9,
+            9,
+            5
+        ]
+    },
+    {
+        "name": "ｵｳｹﾝﾌﾞﾙｰｽﾘ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 30,
+        "min": 2200,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｼﾞｬﾝｸﾞﾙﾎﾟｹｯﾄ",
+            "Silver Deputy",
+            "Northern Jove",
+            "Ribot"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            11,
+            5,
+            6,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "ｵｰｼｬﾝﾌﾞﾙｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ｽﾃｲｺﾞｰﾙﾄﾞ",
+            "Dashing Blade",
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "Surumu"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5,
+            3,
+            6,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｵﾘｵﾝｻﾞｻﾝｸｽ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30,
+        "min": 1000,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｼｬﾝﾊｲ",
+            "ﾘｳﾞﾘｱ",
+            "ﾓﾊﾋﾞ",
+            "ﾄﾞﾚｽｱｯﾌﾟ"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            9,
+            3,
+            11,
+            11,
+            11
+        ]
+    },
+    {
+        "name": "ｷﾝｸﾞﾍｲﾛｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30,
+        "min": 1200,
+        "max": 2200,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "Halo",
+            "Sir Ivor",
+            "Buckpasser"
+        ],
+        "indices": [
+            5,
+            7,
+            4,
+            7,
+            4,
+            2,
+            4,
+            8
+        ]
+    },
+    {
+        "name": "ｸﾞﾗﾝﾃﾞｯﾂｧ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Marju",
+            "Distant Relative",
+            "Final Straw"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            10,
+            5,
+            13,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ｺﾞｰﾙﾄﾞﾍｲﾛｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1400,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Seeking the Gold",
+            "Northern Dancer",
+            "Forli"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            6,
+            8,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｺﾊﾟﾉﾘﾁｬｰﾄﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾀﾞｲﾜﾒｼﾞｬｰ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "Caerleon",
+            "Blushing Groom"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            12,
+            3,
+            11,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ｼﾋﾞﾙｳｫｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｳｫｰｴﾝﾌﾞﾚﾑ",
+            "Sadler's Wells",
+            "Riverman",
+            "Graustark"
+        ],
+        "indices": [
+            6,
+            9,
+            7,
+            11,
+            5,
+            4,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｼﾞｬﾝｸﾞﾙﾎﾟｹｯﾄ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 30,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "ﾄﾆｰﾋﾞﾝ",
+            "Nureyev",
+            "Nodouble",
+            "Daryl's Joy"
+        ],
+        "indices": [
+            3,
+            1,
+            11,
+            14,
+            5,
+            11,
+            11,
+            11
+        ]
+    },
+    {
+        "name": "ｼﾞｮｰｶﾌﾟﾁｰﾉ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾏﾝﾊｯﾀﾝｶﾌｪ",
+            "ﾌｻｲﾁｺﾝｺﾙﾄﾞ",
+            "ﾄｳｼｮｳﾎﾞｰｲ",
+            "ﾌｫﾙﾃｨﾉ"
+        ],
+        "indices": [
+            4,
+            9,
+            13,
+            11,
+            5,
+            5,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ｼﾙﾎﾟｰﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾎﾜｲﾄﾏｽﾞﾙ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Woodman",
+            "Danzig"
+        ],
+        "indices": [
+            5,
+            4,
+            7,
+            3,
+            4,
+            9,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｽｳｨﾌﾄｶﾚﾝﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Machiavellian",
+            "Bustino",
+            "Lorenzaccio"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            6,
+            4,
+            10,
+            15
+        ]
+    },
+    {
+        "name": "ｽｽﾞｶﾌｪﾆｯｸｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Fairy King",
+            "Alleged",
+            "Northern Dancer"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            4,
+            13,
+            5
+        ]
+    },
+    {
+        "name": "ﾀｲﾑﾊﾟﾗﾄﾞｯｸｽ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "Alzao",
+            "ﾎﾞｰﾙﾄﾞﾗｯﾄﾞ",
+            "High Treason"
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            9,
+            5,
+            4,
+            3,
+            7
+        ]
+    },
+    {
+        "name": "ﾀﾆﾉｷﾞﾑﾚｯﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ｸﾘｽﾀﾙﾊﾟﾚｽ",
+            "Sea-Bird",
+            "Graustark"
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            9,
+            3,
+            13,
+            6,
+            13
+        ]
+    },
+    {
+        "name": "ﾄｳｹｲﾍｲﾛｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｺﾞｰﾙﾄﾞﾍｲﾛｰ",
+            "ﾐﾙｼﾞｮｰｼﾞ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Determine"
+        ],
+        "indices": [
+            4,
+            9,
+            6,
+            5,
+            3,
+            13,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ﾄｩｻﾞﾜｰﾙﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "C",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nureyev",
+            "Sharpen Up"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            9,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾉｰｻﾞﾝﾘﾊﾞｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Machiavellian",
+            "Nureyev",
+            "Owen Anthony"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            10,
+            6,
+            4,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "ﾊﾟﾄﾞﾄﾛﾜ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30,
+        "min": 1200,
+        "max": 1400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｽｳｪﾌﾟﾄｵｰｳﾞｧｰﾎﾞｰﾄﾞ",
+            "ﾌｼﾞｷｾｷ",
+            "Risen Star",
+            "Nureyev"
+        ],
+        "indices": [
+            6,
+            5,
+            9,
+            15,
+            4,
+            13,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾊﾞﾄﾙﾌﾟﾗﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30,
+        "min": 1600,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｴﾝﾊﾟｲｱﾒｰｶｰ",
+            "Seeking the Gold",
+            "Storm Bird",
+            "Secretariat"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            14,
+            6,
+            8,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾌｻｲﾁｾﾌﾞﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "Fusaichi Pegasus",
+            "Vice Regent",
+            "Halo",
+            "Herbager"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            4,
+            5,
+            7,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ﾍﾞｰｶﾊﾞﾄﾞ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Cape Cross",
+            "Kris",
+            "Mill Reef",
+            "Bustino"
+        ],
+        "indices": [
+            5,
+            4,
+            15,
+            11,
+            6,
+            9,
+            3,
+            10
+        ]
+    },
+    {
+        "name": "ﾜｲﾙﾄﾞﾜﾝﾀﾞｰ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 30,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Mr. Prospector",
+            "Northern Dancer"
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            9,
+            4,
+            9,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｱｽｶｸﾘﾁｬﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "A",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ｽﾀｰﾘﾝｸﾞﾛｰｽﾞ",
+            "ﾀﾞｲﾅﾚﾀｰ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "Delta Judge"
+        ],
+        "indices": [
+            6,
+            8,
+            5,
+            8,
+            5,
+            13,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "ｱﾎﾟﾛｷﾝｸﾞﾀﾞﾑ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "Lemon Drop Kid",
+            "Storm Cat",
+            "northjet",
+            "Turn-to"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            8,
+            5,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ｵﾝﾌｧｲｱ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "C",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Alzao",
+            "Busted",
+            "Queen's Hussar"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            4,
+            10,
+            7
+        ]
+    },
+    {
+        "name": "ｶﾙｽﾄﾝﾗｲﾄｵ",
+        "system": "ｲﾝﾃﾝﾄ",
+        "fee": 20,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｳｫｰﾆﾝｸﾞ",
+            "ｸﾘｽﾀﾙｸﾞﾘｯﾀｰｽﾞ",
+            "ｶｳｱｲｷﾝｸﾞ",
+            "ﾈｳﾞｧｰﾋﾞｰﾄ"
+        ],
+        "indices": [
+            14,
+            8,
+            4,
+            6,
+            3,
+            11,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｶﾝﾊﾟﾆｰ",
+        "system": "ｾﾞﾀﾞｰﾝ",
+        "fee": 20,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "A",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾐﾗｸﾙｱﾄﾞﾏｲﾔ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "Crafty Prospector",
+            "Secretariat"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            7,
+            5,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ｻﾑﾗｲﾊｰﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            3,
+            11,
+            5,
+            1
+        ]
+    },
+    {
+        "name": "ｻﾝｶﾙﾛ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "A",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｼﾝﾎﾞﾘｸﾘｽｴｽ",
+            "Crafty Prospector",
+            "ｾｸﾚﾄ",
+            "Olden Times"
+        ],
+        "indices": [
+            4,
+            13,
+            3,
+            8,
+            6,
+            14,
+            5,
+            14
+        ]
+    },
+    {
+        "name": "ｽﾄｰﾐﾝｸﾞﾎｰﾑ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "Machiavellian",
+            "Shareef Dancer",
+            "Mr. Prospector",
+            "Francis S."
+        ],
+        "indices": [
+            6,
+            3,
+            4,
+            13,
+            5,
+            4,
+            6,
+            4
+        ]
+    },
+    {
+        "name": "ｾﾚｽﾊﾝﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1400,
+        "dirt": "◎",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｺﾛﾅﾄﾞｽﾞｸｴｽﾄ",
+            "Blushing Groom",
+            "Htchet Man",
+            "Ribot"
+        ],
+        "indices": [
+            6,
+            13,
+            9,
+            3,
+            3,
+            13,
+            10,
+            13
+        ]
+    },
+    {
+        "name": "ﾃﾞｨｰﾌﾟｽｶｲ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｱｸﾞﾈｽﾀｷｵﾝ",
+            "Chief's Crown",
+            "Key to the Mint",
+            "Cornish Prince"
+        ],
+        "indices": [
+            4,
+            9,
+            3,
+            10,
+            5,
+            3,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ﾄｩｻﾞｸﾞﾛｰﾘｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 2000,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Nureyev",
+            "Sharpen Up"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            9,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾄﾋﾞｰｽﾞｺｰﾅｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "Bellamy Road",
+            "Mister Frisky",
+            "Restivo",
+            "Poker"
+        ],
+        "indices": [
+            5,
+            14,
+            11,
+            3,
+            9,
+            10,
+            6,
+            13
+        ]
+    },
+    {
+        "name": "ﾅｶﾔﾏﾌｪｽﾀ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｽﾃｲｺﾞｰﾙﾄﾞ",
+            "ﾀｲﾄｽﾎﾟｯﾄ",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Cure the Blues"
+        ],
+        "indices": [
+            4,
+            9,
+            11,
+            5,
+            13,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾊﾞｰﾃﾞｨﾊﾞｰﾃﾞｨ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "Seeking the Gold",
+            "Pleasant Colony",
+            "Nijinsky"
+        ],
+        "indices": [
+            4,
+            3,
+            13,
+            9,
+            6,
+            8,
+            13,
+            5
+        ]
+    },
+    {
+        "name": "ﾊﾀﾉｳﾞｧﾝｸｰﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1800,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            13,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "ﾊﾞﾝﾌﾞｰｴｰﾙ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｱﾌﾘｰﾄ",
+            "Rainbow Quest",
+            "Irish Castle",
+            "Commodore M."
+        ],
+        "indices": [
+            6,
+            3,
+            8,
+            11,
+            3,
+            11,
+            3,
+            9
+        ]
+    },
+    {
+        "name": "ﾋﾙﾉﾀﾞﾑｰﾙ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1800,
+        "max": 3000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾏﾝﾊｯﾀﾝｶﾌｪ",
+            "ﾗﾑﾀﾗ",
+            "L'Emigrant",
+            "Brigadier Gerard"
+        ],
+        "indices": [
+            4,
+            9,
+            13,
+            11,
+            5,
+            3,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "ﾌｫｰﾃｨﾅｲﾅｰｽﾞｻﾝ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "Distorted Humor",
+            "Alleged",
+            "Conquistador Cielo",
+            "Quadrangle"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            4,
+            13,
+            13,
+            6,
+            10
+        ]
+    },
+    {
+        "name": "ﾙｰｽﾘﾝﾄﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1800,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｴﾙｺﾝﾄﾞﾙﾊﾟｻｰ",
+            "Deputy Minister",
+            "Stage Door Johnny",
+            "Tom Fool"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            3,
+            5,
+            14,
+            13,
+            8
+        ]
+    },
+    {
+        "name": "ﾚｯﾄﾞｽﾊﾟｰﾀﾞ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ﾀｲｷｼｬﾄﾙ",
+            "Storm Cat",
+            "Bates Motel",
+            "Wise Exchange"
+        ],
+        "indices": [
+            4,
+            11,
+            5,
+            11,
+            5,
+            3,
+            4,
+            9
+        ]
+    },
+    {
+        "name": "ﾛｰﾄﾞｱﾙﾃｨﾏ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 20,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Seeking the Gold",
+            "Secretariat",
+            "Tim Tam",
+            "Tudor Minstrel"
+        ],
+        "indices": [
+            6,
+            3,
+            8,
+            9,
+            3,
+            13,
+            8,
+            11
+        ]
+    },
+    {
+        "name": "ﾛｰﾚﾙｹﾞﾚｲﾛ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20,
+        "min": 1000,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ｷﾝｸﾞﾍｲﾛｰ",
+            "ﾃﾝﾋﾞｰ",
+            "ｶｺｲｰｼｰｽﾞ",
+            "ﾏﾙｾﾞﾝｽｷｰ"
+        ],
+        "indices": [
+            5,
+            4,
+            4,
+            4,
+            5,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｱｯﾐﾗｰﾚ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 10,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Carr de Naskra",
+            "Hoist the Flag",
+            "Nashua"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            3,
+            3,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ｱﾄﾞﾏｲﾔｼﾞｬﾊﾟﾝ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 10,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Caerleon",
+            "Lord Gayle",
+            "Luciano"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            13,
+            4,
+            11
+        ]
+    },
+    {
+        "name": "ｱﾎﾟﾛｿﾆｯｸ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 10,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Big Brown",
+            "Pure Prize",
+            "Prized",
+            "Raise a Man"
+        ],
+        "indices": [
+            5,
+            9,
+            5,
+            4,
+            5,
+            6,
+            4,
+            6
+        ]
+    },
+    {
+        "name": "ｷﾓﾝﾉｶｼﾜ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 10,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾌﾞﾗｯｸﾀｲｱﾌｪｱｰ",
+            "Devil's Bag",
+            "Cornish Prince"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            6,
+            10,
+            4,
+            3
+        ]
+    },
+    {
+        "name": "ｹｲﾑﾎｰﾑ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Gone West",
+            "Clever Trick",
+            "Full Out",
+            "Best Turn"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            8,
+            5,
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ｻｸﾗﾌﾟﾚｼﾞﾃﾞﾝﾄ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 10,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾏﾙｾﾞﾝｽｷｰ",
+            "ｾﾀﾞﾝ",
+            "Grey Sovereign"
+        ],
+        "indices": [
+            4,
+            2,
+            9,
+            11,
+            5,
+            8,
+            13,
+            3
+        ]
+    },
+    {
+        "name": "ｻﾞｻﾝﾃﾞｰﾌｻｲﾁ",
+        "system": "ﾍｲﾙﾄｩﾘｰｽﾞﾝ",
+        "fee": 10,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ",
+            "ｶﾞｰｻﾝﾄ"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            13,
+            3,
+            11,
+            5,
+            1
+        ]
+    },
+    {
+        "name": "ｽｰﾊﾟｰﾎｰﾈｯﾄ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 10,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "ﾛﾄﾞﾘｺﾞﾃﾞﾄﾘｱｰﾉ",
+            "ｴﾙｾﾆｮｰﾙ",
+            "Elocutionist",
+            "Nearctic"
+        ],
+        "indices": [
+            5,
+            8,
+            4,
+            12,
+            6,
+            11,
+            13,
+            5
+        ]
+    },
+    {
+        "name": "ｽｸﾜｰﾄﾙｽｸﾜｰﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "Marquetry",
+            "Lost Code",
+            "Smarten",
+            "Tentam"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            3,
+            13,
+            12,
+            4,
+            14
+        ]
+    },
+    {
+        "name": "ｽﾀｰﾘﾝｸﾞﾛｰｽﾞ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｱﾌﾘｰﾄ",
+            "Danzig",
+            "Buckpasser",
+            "Le Beau Prince"
+        ],
+        "indices": [
+            6,
+            3,
+            8,
+            11,
+            5,
+            9,
+            8,
+            15
+        ]
+    },
+    {
+        "name": "ｽﾄﾗｳﾞｨﾝｽｷｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 10,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "Nureyev",
+            "Blushing Groom",
+            "Mr. Prospector",
+            "Native Dancer"
+        ],
+        "indices": [
+            5,
+            6,
+            11,
+            3,
+            3,
+            13,
+            6,
+            6
+        ]
+    },
+    {
+        "name": "ﾀﾞﾉﾝｺﾞｰｺﾞｰ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｱﾙﾃﾞﾊﾞﾗﾝII",
+            "Potrillazo",
+            "Banner Sport",
+            "Right of Way"
+        ],
+        "indices": [
+            6,
+            3,
+            9,
+            5,
+            3,
+            11,
+            6,
+            7
+        ]
+    },
+    {
+        "name": "ﾃｲｴﾑｵﾍﾟﾗｵｰ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 10,
+        "min": 1400,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ｵﾍﾟﾗﾊｳｽ",
+            "Blushing Groom",
+            "Key to the Kingdom",
+            "Drone"
+        ],
+        "indices": [
+            5,
+            4,
+            2,
+            15,
+            3,
+            13,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ﾉﾎﾞｼﾞｬｯｸ",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 10,
+        "min": 1000,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "ｱﾌﾘｰﾄ",
+            "Drone",
+            "Candy Spots"
+        ],
+        "indices": [
+            5,
+            14,
+            13,
+            3,
+            6,
+            8,
+            4,
+            1
+        ]
+    },
+    {
+        "name": "ﾌﾞﾚｲｸﾗﾝｱｳﾄ",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 10,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "C",
+        "stable": "C",
+        "ancestors": [
+            "Smart Strike",
+            "ﾌﾚﾝﾁﾃﾞﾋﾟｭﾃｨ",
+            "Baldski",
+            "What a Pleasure"
+        ],
+        "indices": [
+            6,
+            3,
+            4,
+            11,
+            5,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "Galileo",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 300000,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Sadler's Wells",
+            "Miswaki",
+            "Lombard",
+            "Espresso"
+        ],
+        "indices": [
+            5,
+            6,
+            4,
+            11,
+            6,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "name": "Dubawi",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 200000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Dubai Millennium",
+            "Deploy",
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "High Line"
+        ],
+        "indices": [
+            6,
+            8,
+            5,
+            2,
+            3,
+            4,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "War Front",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 200000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Danzig",
+            "Rubiano",
+            "Forli",
+            "Round Table"
+        ],
+        "indices": [
+            5,
+            6,
+            9,
+            7,
+            6,
+            5,
+            11,
+            13
+        ]
+    },
+    {
+        "name": "Medaglia d'Oro",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 180000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "El Prado",
+            "Bailjumper",
+            "Silent Screen",
+            "Restless Wind"
+        ],
+        "indices": [
+            5,
+            4,
+            4,
+            8,
+            9,
+            7,
+            13,
+            10
+        ]
+    },
+    {
+        "name": "Tapit",
+        "system": "ﾎﾞｰﾙﾄﾞﾙｰﾗｰ",
+        "fee": 180000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "Pulpit",
+            "Unbridled",
+            "Nijinsky",
+            "In Reality"
+        ],
+        "indices": [
+            3,
+            3,
+            6,
+            3,
+            6,
+            13,
+            5,
+            14
+        ]
+    },
+    {
+        "name": "Frankel",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 180000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "Galileo",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Rainbow Quest",
+            "Stage Door Johnny"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            9,
+            5,
+            13,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "American Pharoah",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 180000,
+        "min": 1400,
+        "max": 2400,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "Pioneerof the Nile",
+            "Yankee Gentleman",
+            "Ecliptical",
+            "Tri Jet"
+        ],
+        "indices": [
+            6,
+            5,
+            7,
+            3,
+            5,
+            3,
+            6,
+            8
+        ]
+    },
+    {
+        "name": "Curlin",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 180000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Smart Strike",
+            "Deputy Minister",
+            "Bates Motel",
+            "Wise exchange"
+        ],
+        "indices": [
+            6,
+            3,
+            4,
+            11,
+            5,
+            14,
+            4,
+            9
+        ]
+    },
+    {
+        "name": "Into Mischief",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 180000,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Harlan's Holiday",
+            "Tricky Creek",
+            "Stop the Music",
+            "One for All"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            3,
+            5,
+            13,
+            4,
+            5
+        ]
+    },
+    {
+        "name": "Monsun",
+        "system": "ﾌﾞﾗﾝﾄﾞﾌｫｰﾄﾞ",
+        "fee": 150000,
+        "min": 2000,
+        "max": 3000,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "A",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Konigsstuhl",
+            "Surumu",
+            "Authi",
+            "Kaiseradler"
+        ],
+        "indices": [
+            10,
+            1,
+            15,
+            11,
+            11,
+            9,
+            11,
+            9
+        ]
+    },
+    {
+        "name": "Sea the Stars",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 150000,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Cape Cross",
+            "Miswaki",
+            "Lombard",
+            "Espresso"
+        ],
+        "indices": [
+            5,
+            4,
+            15,
+            11,
+            6,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "name": "Uncle Mo",
+        "system": "ﾌｫﾙﾃｨﾉ",
+        "fee": 150000,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Indian Charlie",
+            "Arch",
+            "Dixieland Band",
+            "Cyane"
+        ],
+        "indices": [
+            3,
+            11,
+            5,
+            3,
+            4,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "Pioneerof the Nile",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 120000,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｴﾝﾊﾟｲｱﾒｰｶｰ",
+            "Lord at War",
+            "Key to the Kingdom",
+            "Kanumera"
+        ],
+        "indices": [
+            6,
+            13,
+            5,
+            14,
+            7,
+            13,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "Siyouni",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 120000,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "Pivotal",
+            "ﾃﾞｲﾝﾋﾙ",
+            "Conquistador Cielo",
+            "ｲｸｽﾌﾟﾛｳﾃﾞﾝﾄ"
+        ],
+        "indices": [
+            5,
+            13,
+            3,
+            10,
+            5,
+            13,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "Candy Ride",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 100000,
+        "min": 1400,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Ride the Rails",
+            "Candy Stripes",
+            "Farnesio",
+            "Utopico"
+        ],
+        "indices": [
+            6,
+            13,
+            11,
+            2,
+            3,
+            5,
+            3,
+            15
+        ]
+    },
+    {
+        "name": "Street Cry",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 100000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Machiavellian",
+            "Troy",
+            "Riverman",
+            "Pall Mall"
+        ],
+        "indices": [
+            6,
+            3,
+            4,
+            13,
+            7,
+            11,
+            3,
+            7
+        ]
+    },
+    {
+        "name": "Dark Angel",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 100000,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Acclamation",
+            "Machiavellian",
+            "Night Shift",
+            "Right Tack"
+        ],
+        "indices": [
+            5,
+            3,
+            15,
+            3,
+            6,
+            4,
+            5,
+            2
+        ]
+    },
+    {
+        "name": "Kitten's Joy",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 70000,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "El Prado",
+            "Lear Fan",
+            "L'Enjoleur",
+            "Prince John"
+        ],
+        "indices": [
+            5,
+            4,
+            4,
+            8,
+            4,
+            3,
+            8,
+            13
+        ]
+    },
+    {
+        "name": "Shamardal",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 70000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Giant's Causeway",
+            "Machiavellian",
+            "Troy",
+            "Riverman"
+        ],
+        "indices": [
+            5,
+            3,
+            3,
+            4,
+            6,
+            4,
+            7,
+            3
+        ]
+    },
+    {
+        "name": "Speightstown",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 70000,
+        "min": 1000,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "B",
+        "temper": "A",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Gone West",
+            "Storm Cat",
+            "Chieftain",
+            "Buckpasser"
+        ],
+        "indices": [
+            6,
+            3,
+            3,
+            8,
+            5,
+            3,
+            3,
+            8
+        ]
+    },
+    {
+        "name": "Fastnet Rock",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 70000,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾃﾞｲﾝﾋﾙ",
+            "ﾛｲﾔﾙｱｶﾃﾞﾐｰII",
+            "Marauding",
+            "Twig moss"
+        ],
+        "indices": [
+            5,
+            9,
+            13,
+            8,
+            5,
+            12,
+            4,
+            15
+        ]
+    },
+    {
+        "name": "Redoute's Choice",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 70000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "早熟",
+        "health": "A",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾃﾞｲﾝﾋﾙ",
+            "Canny Lad",
+            "Nijinsky",
+            "Sir Ivor"
+        ],
+        "indices": [
+            5,
+            9,
+            13,
+            8,
+            11,
+            8,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "Le Havre",
+        "system": "ﾚｯﾄﾞｺﾞｯﾄﾞ",
+        "fee": 70000,
+        "min": 1400,
+        "max": 1600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Noverre",
+            "Surako",
+            "Jefferson",
+            "Blue Tom"
+        ],
+        "indices": [
+            3,
+            4,
+            5,
+            13,
+            10,
+            5,
+            13,
+            8
+        ]
+    },
+    {
+        "name": "Pivotal",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 70000,
+        "min": 1000,
+        "max": 1400,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "B",
+        "temper": "A",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Polar Falcon",
+            "Cozzene",
+            "Bustino",
+            "Henry the Sevens"
+        ],
+        "indices": [
+            5,
+            11,
+            13,
+            8,
+            3,
+            13,
+            10,
+            11
+        ]
+    },
+    {
+        "name": "New Approach",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 50000,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Galileo",
+            "Ahonoora",
+            "Match",
+            "Grey Sovereign"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            9,
+            15,
+            9,
+            9,
+            3
+        ]
+    },
+    {
+        "name": "Scat Daddy",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 50000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾖﾊﾈｽﾌﾞﾙｸﾞ",
+            "Mr. Prospector",
+            "Nijinsky",
+            "No Robbery"
+        ],
+        "indices": [
+            5,
+            2,
+            9,
+            6,
+            6,
+            3,
+            5,
+            11
+        ]
+    },
+    {
+        "name": "Nathaniel",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30000,
+        "min": 2000,
+        "max": 2600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "Galileo",
+            "Sliver Hawk",
+            "Icecapade",
+            "Tom Rolfe"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            9,
+            4,
+            2,
+            5,
+            13
+        ]
+    },
+    {
+        "name": "Super Saver",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 30000,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Maria's Mon",
+            "A.P. Indy",
+            "Mr. Prospector",
+            "Northern Dancer"
+        ],
+        "indices": [
+            6,
+            8,
+            3,
+            3,
+            3,
+            3,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ﾄﾞｩﾗﾒﾝﾃ",
+        "system": "ﾈｲﾃｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 1000,
+        "min": 1800,
+        "max": 2400,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "C",
+        "temper": "C",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾉｰｻﾞﾝﾃｰｽﾄ"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            9,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾓｰﾘｽ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 800,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "C",
+        "ancestors": [
+            "ｽｸﾘｰﾝﾋｰﾛｰ",
+            "ｶｰﾈｷﾞｰ",
+            "ﾓｶﾞﾐ",
+            "ﾌｫﾃﾞｨｵﾝ"
+        ],
+        "indices": [
+            4,
+            5,
+            4,
+            5,
+            5,
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "name": "ｷﾀｻﾝﾌﾞﾗｯｸ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 300,
+        "min": 1800,
+        "max": 3000,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾌﾞﾗｯｸﾀｲﾄﾞ",
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "ｼﾞｬｯｼﾞｱﾝｼﾞｪﾙｰﾁ",
+            "Lyphard"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            3,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ﾗﾌﾞﾘｰﾃﾞｲ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 170,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ﾀﾞﾝｽｲﾝｻﾞﾀﾞｰｸ",
+            "ﾄﾆｰﾋﾞﾝ",
+            "ﾘｱﾙｼｬﾀﾞｲ"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            5,
+            3,
+            4
+        ]
+    },
+    {
+        "name": "ｱｼﾞｱｴｸｽﾌﾟﾚｽ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 150,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "C",
+        "stable": "B",
+        "ancestors": [
+            "ﾍﾆｰﾋｭｰｽﾞ",
+            "Running Stag",
+            "Notebook",
+            "Deputy Minister"
+        ],
+        "indices": [
+            5,
+            2,
+            13,
+            14,
+            3,
+            1,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "ｱﾒﾘｶﾝﾍﾟｲﾄﾘｵｯﾄ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 150,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "War Front",
+            "Tiznow",
+            "Notebook",
+            "Gold Meridian"
+        ],
+        "indices": [
+            5,
+            9,
+            6,
+            11,
+            14,
+            3,
+            3,
+            3
+        ]
+    },
+    {
+        "name": "ｲｽﾗﾎﾞﾆｰﾀ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 150,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾌｼﾞｷｾｷ",
+            "Cozzene",
+            "Crafty Prospector",
+            "Far North"
+        ],
+        "indices": [
+            4,
+            9,
+            13,
+            14,
+            3,
+            13,
+            6,
+            5
+        ]
+    },
+    {
+        "name": "ｴｲｼﾝﾋｶﾘ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 160,
+        "min": 1600,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Storm Cat",
+            "Caro",
+            "Key to the Mint"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            5,
+            3,
+            3,
+            13
+        ]
+    },
+    {
+        "name": "ｸﾘｴｲﾀｰII",
+        "system": "ﾅｽﾙｰﾗ",
+        "fee": 100,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "C",
+        "stable": "A",
+        "ancestors": [
+            "Tapit",
+            "Privately Held",
+            "Summing",
+            "King of Macedon"
+        ],
+        "indices": [
+            3,
+            6,
+            6,
+            5,
+            9,
+            5,
+            13,
+            13
+        ]
+    },
+    {
+        "name": "ｼﾙﾊﾞｰｽﾃｰﾄ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 150,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "Silver Hawk",
+            "Niniski",
+            "Tyrant"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            4,
+            2,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾀﾞﾉﾝﾚｼﾞｪﾝﾄﾞ",
+        "system": "ﾋﾑﾔｰ",
+        "fee": 100,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "◎",
+        "growth": "晩成",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Macho Uno",
+            "Storm Cat",
+            "Honour and Glory",
+            "Majestic Prince"
+        ],
+        "indices": [
+            12,
+            10,
+            3,
+            6,
+            5,
+            3,
+            14,
+            6
+        ]
+    },
+    {
+        "name": "ﾃﾞｨｽｸﾘｰﾄｷｬｯﾄ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 150,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Forestry",
+            "Private Account",
+            "Believe It",
+            "Tom Rolfe"
+        ],
+        "indices": [
+            5,
+            3,
+            13,
+            12,
+            9,
+            8,
+            14,
+            13
+        ]
+    },
+    {
+        "name": "ﾃﾞｨｰﾏｼﾞｪｽﾃｨ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 100,
+        "min": 1800,
+        "max": 2600,
+        "dirt": "○",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾌﾞﾗｲｱﾝｽﾞﾀｲﾑ",
+            "Sadler's Wells",
+            "Master Derby"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            4,
+            13,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾄﾞﾚﾌｫﾝ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 300,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Gio Ponti",
+            "Ghostzapper",
+            "Trempolino",
+            "Forli"
+        ],
+        "indices": [
+            5,
+            6,
+            6,
+            13,
+            5,
+            14,
+            6,
+            11
+        ]
+    },
+    {
+        "name": "ﾋﾞｯｸﾞｱｰｻｰ",
+        "system": "ﾅｽﾙｰﾗ",
+        "fee": 100,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ｻｸﾗﾊﾞｸｼﾝｵｰ",
+            "Kingmambo",
+            "Sadler's Wells",
+            "Liloy"
+        ],
+        "indices": [
+            3,
+            3,
+            5,
+            15,
+            6,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "ﾎｯｺｰﾀﾙﾏｴ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 150,
+        "min": 1400,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "Cherokee Run",
+            "Unbridled",
+            "Bold Forbes"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            3,
+            4,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "ﾏｸﾌｨ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 250,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "A",
+        "stable": "A",
+        "ancestors": [
+            "Dubawi",
+            "Green Desert",
+            "Irish River",
+            "Val de Loir"
+        ],
+        "indices": [
+            6,
+            5,
+            3,
+            5,
+            5,
+            4,
+            3,
+            10
+        ]
+    },
+    {
+        "name": "ﾐｯｷｰｱｲﾙ",
+        "system": "ﾛｲﾔﾙﾁｬｰｼﾞｬｰ",
+        "fee": 250,
+        "min": 1200,
+        "max": 1600,
+        "dirt": "○",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "C",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾃﾞｨｰﾌﾟｲﾝﾊﾟｸﾄ",
+            "ﾛｯｸｵﾌﾞｼﾞﾌﾞﾗﾙﾀﾙ",
+            "Nureyev",
+            "Alydar"
+        ],
+        "indices": [
+            4,
+            9,
+            5,
+            10,
+            5,
+            5,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "ﾘｵﾝﾃﾞｨｰｽﾞ",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 300,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "ｷﾝｸﾞｶﾒﾊﾒﾊ",
+            "ｽﾍﾟｼｬﾙｳｨｰｸ",
+            "Sadler's Wells",
+            "Habitat"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            4,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "ﾛｺﾞﾀｲﾌﾟ",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 80,
+        "min": 1400,
+        "max": 1800,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "B",
+        "temper": "A",
+        "achievement": "C",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "ﾛｰｴﾝｸﾞﾘﾝ",
+            "ｻﾝﾃﾞｰｻｲﾚﾝｽ",
+            "Risen Star",
+            "Nureyev"
+        ],
+        "indices": [
+            5,
+            4,
+            3,
+            13,
+            4,
+            9,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "Constitution",
+        "system": "ﾅｽﾙｰﾗ",
+        "fee": 90000,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "○",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Tapit",
+            "Distorted Humor",
+            "Ocean Crest",
+            "Pass the Tab"
+        ],
+        "indices": [
+            3,
+            6,
+            6,
+            5,
+            6,
+            5,
+            5,
+            10
+        ]
+    },
+    {
+        "name": "Ghostzapper",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 90000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "普通",
+        "health": "C",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Awesome Again",
+            "Relaunch",
+            "Tri Jet",
+            "Hawaii"
+        ],
+        "indices": [
+            5,
+            14,
+            3,
+            6,
+            14,
+            10,
+            8,
+            2
+        ]
+    },
+    {
+        "name": "Kingman",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 180000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "A",
+        "stable": "B",
+        "ancestors": [
+            "Invincible Spirit",
+            "Zamindar",
+            "ﾀﾞﾝｼﾝｸﾞﾌﾞﾚｰｳﾞ",
+            "Mill Reef"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            13,
+            6,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "Kodiac",
+        "system": "ﾆｱｰｸﾃｨｯｸ",
+        "fee": 90000,
+        "min": 1200,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "A",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "ﾃﾞｲﾝﾋﾙ",
+            "Kris",
+            "ｱｰﾃｲｱｽ",
+            "ﾊﾞｳﾝﾃｨｱｽ"
+        ],
+        "indices": [
+            5,
+            9,
+            13,
+            8,
+            6,
+            9,
+            13,
+            11
+        ]
+    },
+    {
+        "name": "Australia",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 30000,
+        "min": 1600,
+        "max": 2400,
+        "dirt": "△",
+        "growth": "普通",
+        "health": "B",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Galileo",
+            "Cape Cross",
+            "Welsh Pageant",
+            "Heliopolis"
+        ],
+        "indices": [
+            5,
+            4,
+            6,
+            9,
+            5,
+            15,
+            11,
+            11
+        ]
+    },
+    {
+        "name": "Lope de Vega",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 130000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Shamardal",
+            "Vettori",
+            "Kendor",
+            "Sharpman"
+        ],
+        "indices": [
+            5,
+            3,
+            6,
+            7,
+            6,
+            4,
+            3,
+            6
+        ]
+    },
+    {
+        "name": "Munnings",
+        "system": "ﾈｲﾃﾞｨｳﾞﾀﾞﾝｻｰ",
+        "fee": 50000,
+        "min": 1200,
+        "max": 1800,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Speightstown",
+            "Holy Bull",
+            "Lord at War",
+            "Secretariat"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            3,
+            12,
+            10,
+            7,
+            3
+        ]
+    },
+    {
+        "name": "Paynter",
+        "system": "ﾉｰｻﾞﾝﾀﾞﾝｻｰ",
+        "fee": 20000,
+        "min": 1600,
+        "max": 2200,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "C",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "B",
+        "ancestors": [
+            "Awesome Again",
+            "Cee's Tizzy",
+            "Seattle Song",
+            "ﾅｲｽﾀﾞﾝｻｰ"
+        ],
+        "indices": [
+            5,
+            14,
+            3,
+            6,
+            14,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "Quality Road",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 150000,
+        "min": 1400,
+        "max": 2000,
+        "dirt": "◎",
+        "growth": "持続",
+        "health": "C",
+        "temper": "B",
+        "achievement": "A",
+        "spirit": "B",
+        "stable": "A",
+        "ancestors": [
+            "Elusive Quality",
+            "ｽﾄﾛﾍﾞﾘｰﾛｰﾄﾞ",
+            "Alydar",
+            "Bold Bidder"
+        ],
+        "indices": [
+            6,
+            3,
+            5,
+            4,
+            5,
+            3,
+            6,
+            3
+        ]
+    },
+    {
+        "name": "Wootton Bassett",
+        "system": "ﾚｲｽﾞｱﾈｲﾃｨｳﾞ",
+        "fee": 130000,
+        "min": 1200,
+        "max": 2000,
+        "dirt": "△",
+        "growth": "早熟",
+        "health": "B",
+        "temper": "B",
+        "achievement": "B",
+        "spirit": "B",
+        "stable": "C",
+        "ancestors": [
+            "Iffraaj",
+            "Primo Dominie",
+            "Chief's Crown",
+            "Tom Rolfe"
+        ],
+        "indices": [
+            6,
+            5,
+            5,
+            15,
+            2,
+            7,
+            5,
+            13
+        ]
+    }
+]
