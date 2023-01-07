@@ -1,6 +1,6 @@
 # DerbyStallionPedigreeTool
 
-Nintendo Switch版ダービースタリオンの血統検索ツール
+Nintendo Switch版ダービースタリオンの配合分析ツール
 
 # Requirement
 
