@@ -134,7 +134,7 @@ void twoGeneration(
             broodmares.insert(broodmare);
         }
 
-        std::cout << "父,母父,母母父,凝った,面白,見事,危険,短距離,速力,長距離,底力,安定,気性難,早熟,晩成,丈夫,ダート,パワー,SP,ST,PW" << std::endl;
+        std::cout << "父,母父,母母,凝った,面白,見事,危険,短距離,速力,長距離,底力,安定,気性難,早熟,晩成,丈夫,ダート,パワー,SP,ST,PW" << std::endl;
         for (auto itS2 = secondStallions.begin(); itS2 != secondStallions.end(); ++itS2) {
             for (auto itS1 = firstStallions.begin(); itS1 != firstStallions.end(); ++itS1) {
                 for (auto itB = broodmares.begin(); itB != broodmares.end(); ++itB) {
@@ -192,7 +192,7 @@ void threeGeneration(
             broodmares.insert(broodmare);
         }
 
-        std::cout << "父,母父,母母父,母母母父,凝った,面白,見事,危険,短距離,速力,長距離,底力,安定,気性難,早熟,晩成,丈夫,ダート,パワー,SP,ST,PW" << std::endl;
+        std::cout << "父,母父,母母父,母母母,凝った,面白,見事,危険,短距離,速力,長距離,底力,安定,気性難,早熟,晩成,丈夫,ダート,パワー,SP,ST,PW" << std::endl;
         for (auto itS3 = thirdStallions.begin(); itS3 != thirdStallions.end(); ++itS3) {
             for (auto itS2 = secondStallions.begin(); itS2 != secondStallions.end(); ++itS2) {
                 for (auto itS1 = firstStallions.begin(); itS1 != firstStallions.end(); ++itS1) {
