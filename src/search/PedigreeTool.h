@@ -41,7 +41,7 @@ private:
 
 public:
     PedigreeTool(
-        std::string_view defaultStallions, std::string_view defaultBroodmares,
+        std::string_view path, std::string_view defaultStallions, std::string_view defaultBroodmares,
         std::string_view stallions, std::string_view elaborated
     );
 

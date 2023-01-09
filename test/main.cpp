@@ -65,9 +65,10 @@ void printPedigreeAnalysis(
     std::cout << result.getNitro().getPowerNitro() << std::endl;;
 }
 
-void oneGeneration(std::string stallion, std::string broodmare) {
+void oneGeneration(std::string_view path, std::string stallion, std::string broodmare) {
     try {
         pedsearch::search::PedigreeTool tool(
+            path,
             "database/default_stallions.json",
             "database/default_broodmares.json",
             "database/stallions.json",
@@ -103,10 +104,11 @@ void oneGeneration(std::string stallion, std::string broodmare) {
 }
 
 void twoGeneration(
-    std::string secondStallion, std::string firstStallion, std::string broodmare
+    std::string_view path, std::string secondStallion, std::string firstStallion, std::string broodmare
 ) {
     try {
         pedsearch::search::PedigreeTool tool(
+            path,
             "database/default_stallions.json",
             "database/default_broodmares.json",
             "database/stallions.json",
@@ -153,11 +155,12 @@ void twoGeneration(
 }
 
 void threeGeneration(
-    std::string thirdStallion, std::string secondStallion, std::string firstStallion,
-    std::string broodmare
+    std::string_view path, std::string thirdStallion, std::string secondStallion,
+    std::string firstStallion, std::string broodmare
 ) {
     try {
         pedsearch::search::PedigreeTool tool(
+            path,
             "database/default_stallions.json",
             "database/default_broodmares.json",
             "database/stallions.json",
@@ -220,11 +223,11 @@ int main(int argc, char* argv[]) {
         std::cout << "pedtool [stallion_name] [stallion_name] [stallion_name] [broodmare_name]" << std::endl;
         std::cout << "you can set \"all\" to stallion_name and broodmare_name." << std::endl;
     } else if (argc == 3) {
-        oneGeneration(argv[1], argv[2]);
+        oneGeneration(argv[0], argv[1], argv[2]);
     } else if (argc == 4) {
-        twoGeneration(argv[1], argv[2], argv[3]);
+        twoGeneration(argv[0], argv[1], argv[2], argv[3]);
     } else if (argc == 5) {
-        threeGeneration(argv[1], argv[2], argv[3], argv[4]);
+        threeGeneration(argv[0], argv[1], argv[2], argv[3], argv[4]);
     } else {
         std::cerr << "Invalid arguments." << std::endl;
     }

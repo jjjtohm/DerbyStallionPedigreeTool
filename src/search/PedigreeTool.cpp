@@ -1,3 +1,4 @@
+#include <regex>
 #include "search/PedigreeTool.h"
 
 namespace pedsearch {
@@ -323,14 +324,23 @@ namespace search {
     }
 
     PedigreeTool::PedigreeTool(
-        std::string_view defaultStallions, std::string_view defaultBroodmares,
+        std::string_view path, std::string_view defaultStallions, std::string_view defaultBroodmares,
         std::string_view stallions, std::string_view elaborated
     ) {
         try {
-            readStallions(stallions);
-            readDefaultBroodmares(defaultBroodmares);
-            readDefaultStallions(defaultStallions);
-            readElaborated(elaborated);
+            std::string pathString(path);
+            std::smatch matched;
+            std::string dirname;
+            if (std::regex_match(pathString, matched, std::regex("^(.*)/[^/]+$"))) {
+                dirname = matched[1].str();
+            } else {
+                throw std::runtime_error("PedigreeTool::PedigreeTool: " + pathString + "is not found.");
+            }
+
+            readStallions(dirname + "/" + stallions.data());
+            readDefaultBroodmares(dirname + "/" + defaultBroodmares.data());
+            readDefaultStallions(dirname + "/" + defaultStallions.data());
+            readElaborated(dirname + "/" + elaborated.data());
         } catch (std::runtime_error e) {
             throw e;
         }
